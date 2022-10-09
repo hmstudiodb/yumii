@@ -1,52 +1,12 @@
 [{
-	"com.among.us.lock.screen": {
-      "sa_id": "l9wfrVJluEWAR96UrgNCGg==",
-      "is_id": "RzJCzURwgArCJSnWWntD9A==",
+	"com.dynamic.island.ios16": {
+      "is_id": "",
 
-      "am_ba": "",
-      "am_in": "Z6fCdDK4eFPHX49PSVxDFC9vYae3VZF2yg1R1rsMPU5TdJyOwG9OH1NHax5SvxXT",
-      "am_vi": "Z6fCdDK4eFPHX49PSVxDFPOm2mhErOv9V3inBAB/2fHWTpIKPNxXotC3WWXfKBUX",
-      "am_na": "",
+      "am_ba": "ca-app-pub-3940256099942544/6300978111",
+      "am_in": "ca-app-pub-3940256099942544/1033173712",
+      "am_vi": "",
+      "am_na": "ca-app-pub-3940256099942544/2247696110",
 
-	"is_redirect":false,
-
-      "ads_list": ["is", "am", "sa"],
-      "hide_my_ad":false,
-      "interval":15000,
-      "disable_sa": false,
-
-        "theme": [
-        {
-          "f": "",
-          "ver": 0,
-          "length": 0
-        },
-        {
-          "f": "theme/V9JSxU.dat",
-          "ver": 1,
-          "length": 1
-        },
-        {
-          "f": "theme/V9JSxU.dat",
-          "ver": 1,
-          "length": 1
-        },
-        {
-          "f": "theme/V9JSxv.dat",
-          "ver": 1,
-          "length": 1,
-          "thumb": "thumb/theme4.jpg"
-        }
-      ],
-
-      "bg":["bg/1614490168779_bg.jpg","bg/1614490168775_bg.jpg","bg/1614490168803_bg.jpg","bg/1614490168798_bg.jpg","bg/1614490168786_bg.jpg","bg/1614490168794_bg.jpg","bg/1614490168796_bg.jpg","bg/1614490168788_bg.jpg","bg/1614490168784_bg.jpg","bg/1614490168801_bg.jpg","bg/1614490168777_bg.jpg","bg/1614490168780_bg.jpg","bg/1614490168792_bg.jpg","bg/1614490168805_bg.jpg","bg/1614490168773_bg.jpg","bg/1614490168790_bg.jpg","bg/1614490168782_bg.jpg","bg/1614490168787_bg.jpg","bg/1614490168799_bg.jpg","bg/1614490168795_bg.jpg","bg/1614490168778_bg.jpg","bg/1614490168802_bg.jpg","bg/1614490168774_bg.jpg","bg/1614490168800_bg.jpg","bg/1614490168776_bg.png","bg/1614490168789_bg.jpg","bg/1614490168797_bg.jpg","bg/1614490168785_bg.jpg","bg/1614490168804_bg.jpg","bg/1614490168781_bg.jpg","bg/1614490168793_bg.jpg","bg/1614490168791_bg.jpg","bg/1614490168783_bg.jpg","bg/1614490168806_bg.jpg"]
-    },
-	"com.colory.camera.sweet.snap.beauty.camera":{
- 	"sa_id": "tx1nybrqTDhC2sHqsSgKcg==",
-        "is_id": "6ga4R9Gl0ELfqlOhp/WklA==",
-
-	"ads_list": ["is", "sa"]
-
-}
-
+      "ads_list": ["am"]
+    }
 }]

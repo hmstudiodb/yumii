@@ -23656,6 +23656,28 @@
               "stream": "http://slive.webhockey.xyz/hls/S2.m3u8"
             }
           ],
+          "channelsData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Primary Link",
+              "logo": "PjdwPnq",
+              "name": "M4 Sports",
+              "nation": "Hungary",
+              "openBrowser": true,
+              "stream": "https://www.hlsplayer.org/play?url=https%3A%2F%2Fk41hedlund.s3.amazonaws.com%2Ftsn2_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Primary Link",
+              "logo": "5NVLPzn",
+              "name": "True4U",
+              "nation": "Thailand",
+              "openBrowser": true,
+              "stream": "https://www.hlsplayer.org/play?url=https%3A%2F%2Fk41hedlund.s3.amazonaws.com%2Ftsn2_720p30.m3u8"
+            }
+          ],
           "type": 0
         },
         {

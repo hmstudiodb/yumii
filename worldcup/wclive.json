@@ -23574,24 +23574,64 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
-              "description": "1080p HD",
-              "headers": "Origin: http://1stream.link;\r\nReferer: http://1stream.link/;",
+              "description": "480p HD",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
               "logo": "HbiakTK",
-              "name": "TSN Full HD",
+              "name": "TSN 1 HD",
               "nation": "Canada",
               "openBrowser": false,
-              "stream": "http://ajiko.azureedge.net/scripts/NjU4MQ==/NjU4MQ==.m3u8"
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_480p30.m3u8"
             },
             {
               "background": "#FFFFFF",
               "dateTime": 0,
-              "description": "480p",
-              "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
+              "description": "480p HD",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
               "logo": "HbiakTK",
-              "name": "TSN",
+              "name": "TSN 2 HD",
               "nation": "Canada",
               "openBrowser": false,
-              "stream": "https://wswanata.azureedge.net/live/FS1/playlist.m3u8"
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "HD Link",
+              "logo": "RN36E3e",
+              "name": "FOX Sports 3",
+              "nation": "United States",
+              "openBrowser": true,
+              "stream": "https://www.hlsplayer.org/play?url=https%3A%2F%2Fk41hedlund.s3.amazonaws.com%2Ftsn_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Data Saver",
+              "logo": "RN36E3e",
+              "name": "FOX Sports 4",
+              "nation": "United States",
+              "openBrowser": true,
+              "stream": "https://www.hlsplayer.org/play?url=https%3A%2F%2Fk41hedlund.s3.amazonaws.com%2Ftsn_720p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Primary Link",
+              "logo": "PjdwPnq",
+              "name": "M4 Sports",
+              "nation": "Hungary",
+              "openBrowser": true,
+              "stream": "https://www.hlsplayer.org/play?url=https%3A%2F%2Fk41hedlund.s3.amazonaws.com%2Ftsn2_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Primary Link",
+              "logo": "5NVLPzn",
+              "name": "True4U",
+              "nation": "Thailand",
+              "openBrowser": true,
+              "stream": "https://www.hlsplayer.org/play?url=https%3A%2F%2Fk41hedlund.s3.amazonaws.com%2Ftsn2_720p30.m3u8"
             },
             {
               "background": "#FFFFFF",
@@ -23614,46 +23654,6 @@
               "nation": "United States",
               "openBrowser": false,
               "stream": "http://slive.webhockey.xyz/hls/S2.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "HD Link",
-              "logo": "RN36E3e",
-              "name": "FOX Sports 3",
-              "nation": "United States",
-              "openBrowser": false,
-              "stream": "https://www.hlsplayer.org/play?url=https%3A%2F%2Fhgdsxzv.azureedge.net%2Flive%2FFOX%2Fplaylist.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Data Saver",
-              "logo": "RN36E3e",
-              "name": "FOX Sports 4",
-              "nation": "United States",
-              "openBrowser": false,
-              "stream": "https://www.hlsplayer.org/play?url=http%3A%2F%2Fcdn1.cyclingnews.live%2Fabr%2Fabr-stream1%2Fplaylist.m3u8%3FwmsAuthSign%3Dc2VydmVyX3RpbWU9MTEvMjQvMjAyMiAzOjA2CjoxNAogUE0maGFzaF92YWx1ZT1Dais1OGdMMG9zOTRNN2hIRWJubHhBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xOTIuMTY4LjEwMC4xNDAmc3RybV9sZW49NA%3D%3D"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Primary Link",
-              "logo": "PjdwPnq",
-              "name": "M4 Sports",
-              "nation": "Hungary",
-              "openBrowser": false,
-              "stream": "https://www.hlsplayer.org/play?url=https%3A%2F%2Flive.vbfast.xyz%2F1cf889f4ac59413e48987b799bee9db0%2F1669347277827%2Frchtwtx%2Findex.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Primary Link",
-              "logo": "5NVLPzn",
-              "name": "True4U",
-              "nation": "Thailand",
-              "openBrowser": false,
-              "stream": "https://true4u.com/live/"
             }
           ],
           "type": 0

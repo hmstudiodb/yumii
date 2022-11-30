@@ -6,7 +6,7 @@
         "is"
       ],
       "interval": "30000",
-      "show_my_ad": false,
+      "hide_my_ad": true,
       "livescore": [
         {
           "hide": true,

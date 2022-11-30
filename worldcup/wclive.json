@@ -6,6 +6,7 @@
         "is"
       ],
       "interval": "30000",
+      "bracket_url":"https://raw.githubusercontent.com/sportslivescore/euro2020/master/lineup/worldcup2022/3.png",
       "livescore": [
         {
           "hide": true,

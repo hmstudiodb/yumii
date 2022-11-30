@@ -1,12 +1,13 @@
 [
   {
     "com.wc.live.streaming": {
-      "ads_list": [
+      "ads_list1": [
         "am",
         "is"
       ],
       "interval": "30000",
       "bracket_url":"https://raw.githubusercontent.com/sportslivescore/euro2020/master/lineup/worldcup2022/3.png",
+      "browser_tab": "TV in Browser",
       "livescore": [
         {
           "hide": true,

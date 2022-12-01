@@ -26205,6 +26205,7 @@
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/eiIhmCG4BU4oCX2m_768x432.jpg",
           "timeYoutube": "2:32",
           "type": 0,
+          "isLive": true,
           "streamingData": [
             {
               "background": "#FFFFFF",
@@ -26321,6 +26322,7 @@
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/89nfQfGxIYhUMtgf_768x432.jpg",
           "timeYoutube": "2:32",
           "type": 0,
+          "isLive": true,
           "streamingData": [
             {
               "background": "#FFFFFF",

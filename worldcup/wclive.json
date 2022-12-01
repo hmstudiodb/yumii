@@ -26209,6 +26209,36 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
+              "description": "480p",
+              "logo": "HbiakTK",
+              "name": "TSN 2",
+              "nation": "Canada",
+              "openBrowser": false,              
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "720p HD",
+              "logo": "HbiakTK",
+              "name": "TSN 2 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_720p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "240p",
+              "logo": "HbiakTK",
+              "name": "TSN 2",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_240p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
               "description": "720p HD",
               "logo": "HbiakTK",
               "name": "TSN 2 HD",
@@ -26216,7 +26246,8 @@
               "openBrowser": false,
               "headers": "Origin: https://nflseasonpass.com;\r\nReferer: https://nflseasonpass.com/;",
               "stream": "https://mainbb.s3.amazonaws.com/ch1/ch1_480p30.m3u8"
-            },{
+            },
+            {
               "background": "#FFFFFF",
               "dateTime": 0,
               "description": "720p HD",
@@ -26294,7 +26325,37 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
-              "description": "Highlights",
+              "description": "480p",
+              "logo": "HbiakTK",
+              "name": "TSN 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "720p HD",
+              "logo": "HbiakTK",
+              "name": "TSN 1 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_720p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "240p",
+              "logo": "HbiakTK",
+              "name": "TSN 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_240p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Primary",
               "logo": "HbiakTK",
               "name": "TSN HD",
               "nation": "Canada",

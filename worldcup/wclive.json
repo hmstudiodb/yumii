@@ -26357,6 +26357,17 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
+              "description": "Mirror 1 HD",
+              "logo": "RN36E3e",
+              "name": "TSN 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "headers": "Origin: https://techclips.net;\r\nReferer: https://techclips.net/clip/s1.html;",
+              "stream": "https://cdn4.reels2watch.com/hls/s1.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
               "description": "Primary",
               "logo": "HbiakTK",
               "name": "TSN HD",
@@ -26364,6 +26375,17 @@
               "openBrowser": false,
               "headers": "Origin: https://nflseasonpass.com;\r\nReferer: https://nflseasonpass.com/;",
               "stream": "https://mainbb.s3.amazonaws.com/ch8/ch8_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Mirror 2",
+              "logo": "HbiakTK",
+              "name": "TSN 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_240p30.m3u8"
             },
             {
               "background": "#FFFFFF",
@@ -26395,17 +26417,6 @@
               "name": "FOX Sports",
               "nation": "Canada",
               "openBrowser": false,
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_240p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Primary",
-              "logo": "RN36E3e",
-              "name": "FOX Sports",
-              "nation": "Canada",
-              "openBrowser": false,
               "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwcfox-s1/?sport=soccer;",
               "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
             },
@@ -26419,17 +26430,6 @@
               "openBrowser": false,
               "headers": "Origin: http://motornews.live;\r\nReferer: http://motornews.live/novo/bite/01-wc-games-s2/?sport=soccer;",
               "stream": "http://cdn2.cyclingnews.live/abr/abr-stream2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDIyIDI6MzAKOjE4CiBQTSZoYXNoX3ZhbHVlPUxDUmQxOG5BNGducmx1eWZmQXNNS2c9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE5Mi4xNjguMTAwLjE0MCZzdHJtX2xlbj00"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "480p Stream",
-              "logo": "RN36E3e",
-              "name": "FOX Sports",
-              "nation": "Canada",
-              "openBrowser": false,
-              "headers": "Origin: https://techclips.net;\r\nReferer: https://techclips.net/clip/s1.html;",
-              "stream": "https://cdn4.reels2watch.com/hls/s1.m3u8"
             }
           ]
         },

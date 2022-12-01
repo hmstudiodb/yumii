@@ -27582,7 +27582,7 @@
               "nation": "Canada",
               "openBrowser": false,
               "headers": "Origin: https://nflseasonpass.com;\r\nReferer: https://nflseasonpass.com/;",
-              "stream": "https://mainbb.s3.amazonaws.com/ch1/ch1_480p30.m3u8"
+              "stream": "https://mainbb.s3.amazonaws.com/ch8/ch8_480p30.m3u8"
             },
             {
               "background": "#FFFFFF",

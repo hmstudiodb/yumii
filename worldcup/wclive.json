@@ -27721,6 +27721,7 @@
           "nameTeam2": "Germany",
           "stadium": "Al Bayt ",
           "startTime": "today, 2:00 PM",
+          "isLive":true,
           "streamingData": [
             {
               "background": "#FFFFFF",

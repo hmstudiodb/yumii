@@ -7993,108 +7993,6 @@
           "stadium": "Al Thumama ",
           "startTime": "Wed, Nov 23",
           "status": "Full-time",
-          "streamingData": [
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "720p HD",
-              "logo": "HbiakTK",
-              "name": "TSN HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://www.hlsplayer.org/play?url=https%3A%2F%2Fgriomreavigremant654.s3.amazonaws.com%2Fredzone_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "1080p HD",
-              "logo": "HbiakTK",
-              "name": "TSN Full HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://www.hlsplayer.org/play?url=https%3A%2F%2Fgriomreavigremant654.s3.amazonaws.com%2Fredzone_720p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "480p",
-              "logo": "HbiakTK",
-              "name": "TSN",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://www.hlsplayer.org/play?url=https%3A%2F%2Fgriomreavigremant654.s3.amazonaws.com%2Fredzone_240p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Primary link",
-              "logo": "RN36E3e",
-              "name": "FOX Sports",
-              "nation": "United States",
-              "openBrowser": false,
-              "stream": "https://www.hlsplayer.org/play?url=https%3A%2F%2Fnflarcadia.xyz%2Fhls%2Fs1.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Mirror Link",
-              "logo": "RN36E3e",
-              "name": "FOX Sports 2",
-              "nation": "United States",
-              "openBrowser": false,
-              "stream": "https://www.hlsplayer.org/play?url=http%3A%2F%2Fajiko.azureedge.net%2Fscripts%2FNjQ3Mg%3D%3D%2FNjQ3Mg%3D%3D.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "HD Link",
-              "logo": "RN36E3e",
-              "name": "FOX Sports 3",
-              "nation": "United States",
-              "openBrowser": false,
-              "stream": "https://www.hlsplayer.org/play?url=https%3A%2F%2Fhgdsxzv.azureedge.net%2Flive%2FFOX%2Fplaylist.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Data Saver",
-              "logo": "RN36E3e",
-              "name": "FOX Sports 4",
-              "nation": "United States",
-              "openBrowser": false,
-              "stream": "https://www.hlsplayer.org/play?url=http%3A%2F%2Fcdn1.cyclingnews.live%2Fabr%2Fabr-stream1%2Fplaylist.m3u8%3FwmsAuthSign%3Dc2VydmVyX3RpbWU9MTEvMjQvMjAyMiAzOjA2CjoxNAogUE0maGFzaF92YWx1ZT1Dais1OGdMMG9zOTRNN2hIRWJubHhBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xOTIuMTY4LjEwMC4xNDAmc3RybV9sZW49NA%3D%3D"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Primary Link",
-              "logo": "PjdwPnq",
-              "name": "M4 Sports",
-              "nation": "Hungary",
-              "openBrowser": false,
-              "stream": "https://www.hlsplayer.org/play?url=https%3A%2F%2Flive.vbfast.xyz%2F1cf889f4ac59413e48987b799bee9db0%2F1669347277827%2Frchtwtx%2Findex.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Primary Link",
-              "logo": "5NVLPzn",
-              "name": "True4U",
-              "nation": "Thailand",
-              "openBrowser": false,
-              "stream": "https://true4u.com/live/"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Primary Link",
-              "logo": "XF1bL2I",
-              "name": "Telemundo",
-              "nation": "United States",
-              "openBrowser": false,
-              "stream": "https://megatelevisionhd.com/en-vivo/telemundo/"
-            }
-          ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/YwrRZYl08i_kczv2_192x108.jpg",
           "timeYoutube": "2:00",
           "type": 0
@@ -10560,76 +10458,6 @@
           "stadium": "Stadium 974 - Ras Abu Aboud",
           "startTime": "Thu, Nov 24",
           "status": "Full-time",
-          "streamingData": [
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Link Primary",
-              "logo": "HbiakTK",
-              "name": "TSN",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://griomreavigremant654.s3.amazonaws.com/redzone2_240p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Link HD",
-              "logo": "HbiakTK",
-              "name": "TSN HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://griomreavigremant654.s3.amazonaws.com/redzone2_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Link Full HD",
-              "logo": "HbiakTK",
-              "name": "TSN Full HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://griomreavigremant654.s3.amazonaws.com/redzone2_720p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Link 1",
-              "logo": "vJUEUBL",
-              "name": "VTV6 HD",
-              "nation": "Vietnam",
-              "openBrowser": false,
-              "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "logo": "RN36E3e",
-              "name": "FOX Sports",
-              "nation": "United States",
-              "openBrowser": false,
-              "stream": "https://nflarcadia.xyz/hls/s1.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "logo": "RN36E3e",
-              "name": "FOX Sports",
-              "nation": "United States",
-              "openBrowser": false,
-              "stream": "https://wswanata.azureedge.net/live/FS1/playlist.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Link 3",
-              "logo": "RN36E3e",
-              "name": "FOX Sports",
-              "nation": "United States",
-              "openBrowser": false,
-              "stream": "http://pitie.azureedge.net/scripts/NjQ3MQ==/NjQ3MQ==.m3u8"
-            }
-          ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/0dteCYyDLqwYCof1_192x108.jpg",
           "timeYoutube": "2:00",
           "type": 0
@@ -27513,7 +27341,7 @@
               "background": "#FFFFFF",
               "dateTime": 0,
               "description": "720p HD",
-              "logo": "o4ppT1G",
+              "logo": "xeZBWOy",
               "name": "itv 1",
               "nation": "Canada",
               "openBrowser": false,
@@ -27588,7 +27416,7 @@
               "background": "#FFFFFF",
               "dateTime": 0,
               "description": "720p HD",
-              "logo": "o4ppT1G",
+              "logo": "xeZBWOy",
               "name": "itv 1",
               "nation": "Canada",
               "openBrowser": false,

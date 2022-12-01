@@ -2,6 +2,7 @@
   {
     "com.wc.live.streaming": {
       "interval": "30000",
+      "bracket_url": "https://raw.githubusercontent.com/sportslivescore/euro2020/master/lineup/worldcup2022/5.png",
       "livescore": [
         {
           "hide": true,
@@ -18006,7 +18007,20 @@
           "status": "Full-time",
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/GM366a55Szkm5uTE_192x108.jpg",
           "timeYoutube": "2:00",
-          "type": 0
+          "type": 0,
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Highlights",
+              "logo": "HbiakTK",
+              "name": "TSN HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "headers": "origin: https://hoafooota.coolvidup.com;\r\nreferer: https://hoafooota.coolvidup.com/;",
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/27/51/241494/360p.m3u8"
+            }
+          ]
         },
         {
           "hide": true,
@@ -18636,7 +18650,20 @@
           "status": "Full-time",
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/HSssGQ4JBZ0Mh2gz_192x108.jpg",
           "timeYoutube": "2:00",
-          "type": 0
+          "type": 0,
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Highlights",
+              "logo": "HbiakTK",
+              "name": "TSN HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "headers": "origin: https://hoafooota.coolvidup.com;\r\nreferer: https://hoafooota.coolvidup.com/;",
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/27/42/241527/360p.m3u8"
+            }
+          ]
         },
         {
           "hide": true,
@@ -19262,7 +19289,20 @@
           "status": "Full-time",
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/lRFWI03QlRCbc7KU_192x108.jpg",
           "timeYoutube": "2:00",
-          "type": 0
+          "type": 0,
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Highlights",
+              "logo": "HbiakTK",
+              "name": "TSN HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "headers": "origin: https://hoafooota.coolvidup.com;\r\nreferer: https://hoafooota.coolvidup.com/;",
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/28/51/241565/360p.m3u8"
+            }
+          ]
         },
         {
           "hide": true,
@@ -19894,7 +19934,20 @@
           "status": "Full-time",
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/vgF7CWnI8MfrxIYg_192x108.jpg",
           "timeYoutube": "2:00",
-          "type": 0
+          "type": 0,
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Highlights",
+              "logo": "HbiakTK",
+              "name": "TSN HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "headers": "origin: https://hoafooota.coolvidup.com;\r\nreferer: https://hoafooota.coolvidup.com/;",
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/28/42/241590/360p.m3u8"
+            }
+          ]
         },
         {
           "hide": true,
@@ -20496,7 +20549,20 @@
           "status": "Full-time",
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/TEUpYql5SbRGEU26_768x432.jpg",
           "timeYoutube": "2:00",
-          "type": 0
+          "type": 0,
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Highlights",
+              "logo": "HbiakTK",
+              "name": "TSN HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "headers": "origin: https://hoafooota.coolvidup.com;\r\nreferer: https://hoafooota.coolvidup.com/;",
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/28/42/241614/360p.m3u8"
+            }
+          ]
         },
         {
           "hide": true,
@@ -21100,7 +21166,20 @@
           "status": "Full-time",
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/BoVB1HAEFaPvM7RX_768x432.jpg",
           "timeYoutube": "2:00",
-          "type": 0
+          "type": 0,
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Highlights",
+              "logo": "HbiakTK",
+              "name": "TSN 2 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "headers": "origin: https://hoafooota.coolvidup.com;\r\nreferer: https://hoafooota.coolvidup.com/;",
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/28/42/241633/360p.m3u8"
+            }
+          ]
         },
         {
           "hide": true,
@@ -21716,7 +21795,20 @@
           "status": "Full-time",
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/euINkl4oFQ0WU_qF_192x108.jpg",
           "timeYoutube": "2:00",
-          "type": 0
+          "type": 0,
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Highlights",
+              "logo": "HbiakTK",
+              "name": "TSN 2 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "headers": "origin: https://hoafooota.coolvidup.com;\r\nreferer: https://hoafooota.coolvidup.com/;",
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/29/51/241679/360p.m3u8"
+            }
+          ]
         },
         {
           "MATCH_STATS": [
@@ -22323,7 +22415,20 @@
           "status": "Full-time",
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/Ej1utSSOcz--aWZN_192x108.jpg",
           "timeYoutube": "2:00",
-          "type": 0
+          "type": 0,
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Highlights",
+              "logo": "HbiakTK",
+              "name": "TSN 2 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "headers": "origin: https://hoafooota.coolvidup.com;\r\nreferer: https://hoafooota.coolvidup.com/;",
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/29/51/241674/360p.m3u8"
+            }
+          ]
         },
         {
           "hide": true,
@@ -22925,7 +23030,20 @@
           "status": "Full-time",
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/rqWSZuJ2hrV0S5rS_192x108.jpg",
           "timeYoutube": "2:00",
-          "type": 0
+          "type": 0,
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Highlights",
+              "logo": "HbiakTK",
+              "name": "TSN HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "headers": "origin: https://hoafooota.coolvidup.com;\r\nreferer: https://hoafooota.coolvidup.com/;",
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/29/42/241730/360p.m3u8"
+            }
+          ]
         },
         {
           "MATCH_STATS": [
@@ -23532,7 +23650,20 @@
           "status": "Full-time",
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/S4EeYx2-Dyl07PZJ_192x108.jpg",
           "timeYoutube": "2:00",
-          "type": 0
+          "type": 0,
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Highlights",
+              "logo": "HbiakTK",
+              "name": "TSN 2 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/29/42/241725/360p.m3u8",
+              "headers": "origin: https://hoafooota.coolvidup.com;\r\nreferer: https://hoafooota.coolvidup.com/;"
+            }
+          ]
         },
         {
           "hide": true,
@@ -24168,96 +24299,13 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
-              "description": "720p HD",
-              "logo": "HbiakTK",
-              "name": "TSN HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://mainbb.s3.amazonaws.com/ch1/ch1_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "480p HD",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "480p HD",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "description": "Highlights",
               "logo": "HbiakTK",
               "name": "TSN 2 HD",
               "nation": "Canada",
               "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "HD Link",
-              "logo": "RN36E3e",
-              "name": "FOX Sports 3",
-              "nation": "United States",
-              "openBrowser": true,
-              "stream": "https://www.hlsplayer.org/play?url=https%3A%2F%2Fk41hedlund.s3.amazonaws.com%2Ftsn_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Data Saver",
-              "logo": "RN36E3e",
-              "name": "FOX Sports 4",
-              "nation": "United States",
-              "openBrowser": true,
-              "stream": "https://www.hlsplayer.org/play?url=https%3A%2F%2Fk41hedlund.s3.amazonaws.com%2Ftsn_720p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Primary Link",
-              "logo": "PjdwPnq",
-              "name": "M4 Sports",
-              "nation": "Hungary",
-              "openBrowser": true,
-              "stream": "https://www.hlsplayer.org/play?url=https%3A%2F%2Fk41hedlund.s3.amazonaws.com%2Ftsn2_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Primary Link",
-              "logo": "5NVLPzn",
-              "name": "True4U",
-              "nation": "Thailand",
-              "openBrowser": true,
-              "stream": "https://www.hlsplayer.org/play?url=https%3A%2F%2Fk41hedlund.s3.amazonaws.com%2Ftsn2_720p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Primary link",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "RN36E3e",
-              "name": "FOX Sports",
-              "nation": "United States",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_240p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Mirror Link",
-              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/worldfc29-s2/;",
-              "logo": "RN36E3e",
-              "name": "FOX Sports 2",
-              "nation": "United States",
-              "openBrowser": false,
-              "stream": "http://slive.webhockey.xyz/hls/S2.m3u8"
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/30/42/241770/360p.m3u8",
+              "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;"
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nOr9Fqc8hOODEA8R_768x432.jpg",
@@ -24877,7 +24925,20 @@
           "status": "Full-time",
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/VLGVRX4FWQh4BpAD_768x432.jpg",
           "timeYoutube": "2:00",
-          "type": 0
+          "type": 0,
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Highlights",
+              "logo": "HbiakTK",
+              "name": "TSN 2 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/30/42/241771/360p.m3u8",
+              "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;"
+            }
+          ]
         },
         {
           "hide": true,
@@ -25505,7 +25566,20 @@
           "status": "Full-time",
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/_k0t8qyhU13MmXt6_192x108.jpg",
           "timeYoutube": "2:00",
-          "type": 0
+          "type": 0,
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Highlights",
+              "logo": "HbiakTK",
+              "name": "TSN HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/30/42/241820/360p.m3u8",
+              "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;"
+            }
+          ]
         },
         {
           "MATCH_STATS": [
@@ -26090,7 +26164,20 @@
           "status": "Full-time",
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/e7Honzd7c8QGFFBn_192x108.jpg",
           "timeYoutube": "2:00",
-          "type": 0
+          "type": 0,
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Highlights",
+              "logo": "HbiakTK",
+              "name": "TSN HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/30/42/241822/360p.m3u8",
+              "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;"
+            }
+          ]
         },
         {
           "hide": true,
@@ -26124,9 +26211,10 @@
               "dateTime": 0,
               "description": "720p HD",
               "logo": "HbiakTK",
-              "name": "TSN HD",
+              "name": "TSN 2 HD",
               "nation": "Canada",
               "openBrowser": false,
+              "headers": "Origin: https://nflseasonpass.com;\r\nReferer: https://nflseasonpass.com/;",
               "stream": "https://mainbb.s3.amazonaws.com/ch1/ch1_480p30.m3u8"
             }
           ]
@@ -26147,7 +26235,20 @@
           "startTime": "tomorrow, 10:00 AM",
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/89nfQfGxIYhUMtgf_768x432.jpg",
           "timeYoutube": "2:32",
-          "type": 0
+          "type": 0,
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Highlights",
+              "logo": "HbiakTK",
+              "name": "TSN HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "headers": "Origin: https://nflseasonpass.com;\r\nReferer: https://nflseasonpass.com/;",
+              "stream": "https://mainbb.s3.amazonaws.com/ch8/ch8_480p30.m3u8"
+            }
+          ]
         },
         {
           "hide": true,
@@ -26179,9 +26280,9 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
-              "description": "Highlight",
+              "description": "720p HD",
               "logo": "HbiakTK",
-              "name": "TSN",
+              "name": "TSN 2 HD",
               "nation": "Canada",
               "openBrowser": false,
               "stream": "https://mainbb.s3.amazonaws.com/ch1/ch1_480p30.m3u8"
@@ -26204,7 +26305,19 @@
           "startTime": "tomorrow, 2:00 PM",
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/x8GyfT-KyxvOrZ6j_768x432.jpg",
           "timeYoutube": "2:41",
-          "type": 0
+          "type": 0,
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "720p HD",
+              "logo": "HbiakTK",
+              "name": "TSN 1 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://mainbb.s3.amazonaws.com/ch8/ch8_480p30.m3u8"
+            }
+          ]
         },
         {
           "hide": true,

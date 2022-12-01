@@ -1,7 +1,13 @@
 [
   {
     "com.wc.live.streaming": {
-      "interval": "30000",
+      "is_id" : "179b194ad",
+      "am_in": "",
+      "ads_list": [
+        "is"
+      ],
+      "interval": 60000,
+
       "bracket_url": "https://raw.githubusercontent.com/sportslivescore/euro2020/master/lineup/worldcup2022/5.png",
       "livescore": [
         {
@@ -26205,7 +26211,7 @@
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/eiIhmCG4BU4oCX2m_768x432.jpg",
           "timeYoutube": "2:32",
           "type": 0,
-          "isLive": true,
+          "isLive": false,
           "streamingData": [
             {
               "background": "#FFFFFF",
@@ -26322,7 +26328,7 @@
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/89nfQfGxIYhUMtgf_768x432.jpg",
           "timeYoutube": "2:32",
           "type": 0,
-          "isLive": true,
+          "isLive": false,
           "streamingData": [
             {
               "background": "#FFFFFF",

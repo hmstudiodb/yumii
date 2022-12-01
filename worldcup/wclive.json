@@ -27645,6 +27645,7 @@
           "nameTeam2": "Spain",
           "stadium": "Khalifa International ",
           "startTime": "today, 2:00 PM",
+          "isLive": true,
           "streamingData": [
             {
               "background": "#FFFFFF",
@@ -27687,6 +27688,7 @@
               "name": "TSN 2 HD",
               "nation": "Canada",
               "openBrowser": false,
+              "headers": "Origin: https://nflseasonpass.com;\r\nReferer: https://nflseasonpass.com/;",
               "stream": "https://mainbb.s3.amazonaws.com/ch1/ch1_480p30.m3u8"
             },
             {
@@ -27723,12 +27725,57 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
+              "description": "480p",
+              "logo": "HbiakTK",
+              "name": "TSN 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
               "description": "720p HD",
               "logo": "HbiakTK",
               "name": "TSN 1 HD",
               "nation": "Canada",
               "openBrowser": false,
-              "stream": "https://mainbb.s3.amazonaws.com/ch8/ch8_480p30.m3u8"
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_720p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "240p",
+              "logo": "HbiakTK",
+              "name": "TSN 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_240p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Mirror 720p HD",
+              "logo": "HbiakTK",
+              "name": "TSN 1 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "headers": "Origin: https://nflseasonpass.com;\r\nReferer: https://nflseasonpass.com/;",
+              "stream": "https://mainbb.s3.amazonaws.com/ch1/ch1_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "720p HD",
+              "logo": "HbiakTK",
+              "name": "itv 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwcfox-s1/;",
+              "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/x8GyfT-KyxvOrZ6j_768x432.jpg",

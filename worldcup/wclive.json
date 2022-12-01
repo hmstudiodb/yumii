@@ -26412,10 +26412,10 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
-              "description": "Primary",
-              "logo": "RN36E3e",
-              "name": "FOX Sports",
-              "nation": "Canada",
+              "description": "720p HD",
+              "logo": "E9IuO1X",
+              "name": "BBC Sports",
+              "nation": "United Kingdom",
               "openBrowser": false,
               "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwcfox-s1/?sport=soccer;",
               "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
@@ -26423,10 +26423,10 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
-              "description": "720p",
-              "logo": "RN36E3e",
-              "name": "FOX Sports",
-              "nation": "Canada",
+              "description": "Mirror",
+              "logo": "E9IuO1X",
+              "name": "BBC Sports",
+              "nation": "United Kingdom",
               "openBrowser": false,
               "headers": "Origin: http://motornews.live;\r\nReferer: http://motornews.live/novo/bite/01-wc-games-s2/?sport=soccer;",
               "stream": "http://cdn2.cyclingnews.live/abr/abr-stream2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMS8yMDIyIDI6MzAKOjE4CiBQTSZoYXNoX3ZhbHVlPUxDUmQxOG5BNGducmx1eWZmQXNNS2c9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE5Mi4xNjguMTAwLjE0MCZzdHJtX2xlbj00"

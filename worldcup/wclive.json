@@ -26216,6 +26216,60 @@
               "openBrowser": false,
               "headers": "Origin: https://nflseasonpass.com;\r\nReferer: https://nflseasonpass.com/;",
               "stream": "https://mainbb.s3.amazonaws.com/ch1/ch1_480p30.m3u8"
+            },{
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "720p HD",
+              "logo": "RN36E3e",
+              "name": "FOX Sports",
+              "nation": "Canada",
+              "openBrowser": false,
+              "headers": "Origin: http://1stream.link;\r\nReferer: http://1stream.link/;",
+              "stream": "http://esieop.azureedge.net/scripts/NjYwMg==/NjYwMg==.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Primary 720p HD",
+              "logo": "RN36E3e",
+              "name": "FOX Sports",
+              "nation": "Canada",
+              "openBrowser": false,
+              "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
+              "stream": "https://hgdsxzv.azureedge.net/live/FOX/playlist.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Mirror HD",
+              "logo": "RN36E3e",
+              "name": "FOX Sports",
+              "nation": "Canada",
+              "openBrowser": false,
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_240p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Mirror 2 HD",
+              "logo": "RN36E3e",
+              "name": "FOX Sports",
+              "nation": "Canada",
+              "openBrowser": false,
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_240p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Sub HD",
+              "logo": "RN36E3e",
+              "name": "FOX Sports",
+              "nation": "Canada",
+              "openBrowser": false,
+              "headers": "Origin: https://techclips.net;\r\nReferer: https://techclips.net/clip/s2.html;",
+              "stream": "https://reels2watch.com/hls/s2.m3u8"
             }
           ]
         },

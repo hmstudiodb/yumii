@@ -28888,8 +28888,8 @@
               "dateTime": 0,
               "description": "720p HD",
               "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwctsn-s2/;",
-              "logo": "E9IuO1X",
-              "name": "BBC Sports",
+              "logo": "xeZBWOy",
+              "name": "itv 1",
               "nation": "United Kingdom",
               "openBrowser": false,
               "stream": "http://slive.webhockey.xyz/hls/S2.m3u8"
@@ -28923,7 +28923,7 @@
               "name": "TSN 2",
               "nation": "Canada",
               "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_480p30.m3u8"
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_480p30.m3u8"
             },
             {
               "background": "#FFFFFF",
@@ -28934,7 +28934,7 @@
               "name": "TSN 2 HD",
               "nation": "Canada",
               "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_720p30.m3u8"
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_720p30.m3u8"
             },
             {
               "background": "#FFFFFF",
@@ -28945,7 +28945,7 @@
               "name": "TSN 2",
               "nation": "Canada",
               "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_240p30.m3u8"
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_240p30.m3u8"
             },
             {
               "background": "#FFFFFF",
@@ -28956,18 +28956,18 @@
               "name": "TSN 2 HD",
               "nation": "Canada",
               "openBrowser": false,
-              "stream": "https://mainbb.s3.amazonaws.com/ch1/ch1_480p30.m3u8"
+              "stream": "https://mainbb.s3.amazonaws.com/ch8/ch8_480p30.m3u8"
             },
             {
               "background": "#FFFFFF",
               "dateTime": 0,
               "description": "720p HD",
               "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwctsn-s2/;",
-              "logo": "E9IuO1X",
-              "name": "BBC Sports",
+              "logo": "xeZBWOy",
+              "name": "itv 1",
               "nation": "United Kingdom",
               "openBrowser": false,
-              "stream": "http://slive.webhockey.xyz/hls/S2.m3u8"
+              "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
             }
           ]
         },

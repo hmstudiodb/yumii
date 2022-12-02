@@ -28081,57 +28081,13 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
-              "description": "480p",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "description": "Highlights",
+              "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
               "logo": "HbiakTK",
-              "name": "TSN 1",
+              "name": "TSN",
               "nation": "Canada",
               "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "720p HD",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_720p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "240p",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_240p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Mirror 720p HD",
-              "headers": "Origin: https://nflseasonpass.com;\r\nReferer: https://nflseasonpass.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://mainbb.s3.amazonaws.com/ch8/ch8_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "720p HD",
-              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwcfox-s1/;",
-              "logo": "E9IuO1X",
-              "name": "BBC Sports",
-              "nation": "United Kingdom",
-              "openBrowser": false,
-              "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/2/42/242042/360p.m3u8"
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/xSfl27KDqZX7LqTy_192x108.jpg",
@@ -28755,57 +28711,13 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
-              "description": "480p",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "description": "Highlights",
+              "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
               "logo": "HbiakTK",
-              "name": "TSN 2",
+              "name": "TSN",
               "nation": "Canada",
               "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "720p HD",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 2 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_720p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "240p",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 2",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_240p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Mirror 720p HD",
-              "headers": "Origin: https://nflseasonpass.com;\r\nReferer: https://nflseasonpass.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 2 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://mainbb.s3.amazonaws.com/ch1/ch1_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "720p HD",
-              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwctsn-s2/;",
-              "logo": "E9IuO1X",
-              "name": "BBC Sports",
-              "nation": "United Kingdom",
-              "openBrowser": false,
-              "stream": "http://slive.webhockey.xyz/hls/S2.m3u8"
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/2/42/242036/360p.m3u8"
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/tbE1PYAnu_FYlijq_768x432.jpg",
@@ -28871,6 +28783,17 @@
               "nation": "Canada",
               "openBrowser": false,
               "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_240p30.m3u8"
+            },
+             {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Mirror 480p HD",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 2",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2copy_480p30.m3u8"
             },
             {
               "background": "#FFFFFF",
@@ -28957,6 +28880,17 @@
               "nation": "Canada",
               "openBrowser": false,
               "stream": "https://hgdsxzv.azureedge.net/live/TSN1/playlist.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Mirror 3 480p HD",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_480p30.m3u8"
             },
             {
               "background": "#FFFFFF",

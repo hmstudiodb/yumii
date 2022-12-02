@@ -26815,28 +26815,6 @@
               "nation": "Canada",
               "openBrowser": false,
               "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/1/51/241966/360p.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Mirror 720p HD",
-              "headers": "Origin: https://nflseasonpass.com;\r\nReferer: https://nflseasonpass.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 2 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://mainbb.s3.amazonaws.com/ch1/ch1_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "720p HD",
-              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwctsn-s2/;",
-              "logo": "xeZBWOy",
-              "name": "itv 1",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "http://slive.webhockey.xyz/hls/S2.m3u8"
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/hccsdfwIwvkqTydM_192x108.jpg",
@@ -27457,28 +27435,6 @@
               "nation": "Canada",
               "openBrowser": false,
               "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/1/42/241968/360p.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Mirror 720p HD",
-              "headers": "Origin: https://nflseasonpass.com;\r\nReferer: https://nflseasonpass.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://mainbb.s3.amazonaws.com/ch8/ch8_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "720p HD",
-              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwcfox-s1/;",
-              "logo": "xeZBWOy",
-              "name": "itv 1",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/Q7al2vFwh-rGVcMG_768x432.jpg",

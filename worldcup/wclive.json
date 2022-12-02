@@ -27561,9 +27561,9 @@
               "dateTime": 0,
               "description": "720p HD",
               "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwcfox-s1/;",
-              "logo": "xeZBWOy",
-              "name": "itv 1",
-              "nation": "Canada",
+              "logo": "E9IuO1X",
+              "name": "BBC Sports",
+              "nation": "United Kingdom",
               "openBrowser": false,
               "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
             }
@@ -27636,9 +27636,9 @@
               "dateTime": 0,
               "description": "720p HD",
               "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwctsn-s2/;",
-              "logo": "xeZBWOy",
-              "name": "itv 1",
-              "nation": "Canada",
+              "logo": "E9IuO1X",
+              "name": "BBC Sports",
+              "nation": "United Kingdom",
               "openBrowser": false,
               "stream": "http://slive.webhockey.xyz/hls/S2.m3u8"
             }

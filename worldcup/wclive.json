@@ -30412,7 +30412,7 @@
           "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/wj9uZvn_vZrelLFGH8fnPA_96x96.png",
           "hide": true,
           "id": "-NHAVeJhxQCXmYFQ-v8_",
-          "isLive": true,
+          "isLive": false,
           "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/eou5lc9-Z0q5i_Gf-3rKbQ?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
           "matchType": "Round of 16",
           "millisecondsUTC": 1670079600000,
@@ -30421,6 +30421,37 @@
           "nameTeam2": "USA",
           "stadium": "Khalifa International ",
           "startTime": "today, 10:00 AM",
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Highlights",
+              "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/3/42/242168/360p.m3u8"
+            }
+          ],
+          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/6wS9qzjUO_OJiwKs_768x432.jpg",
+          "timeYoutube": "2:26",
+          "type": 0
+        },
+        {
+          "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_96x96.png",
+          "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_96x96.png",
+          "hide": true,
+          "id": "-NHAVeJhxQCXmYFQ-v8a",
+          "isLive": false,
+          "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/uaY-p9kXP0iBWjTjMemCRw?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
+          "matchType": "Round of 16",
+          "millisecondsUTC": 1670094000000,
+          "nameCup": "FIFA World Cup 2022™",
+          "nameTeam1": "Argentina",
+          "nameTeam2": "Australia",
+          "stadium": "Ahmad bin Ali ",
+          "startTime": "today, 2:00 PM",
           "streamingData": [
             {
               "background": "#FFFFFF",
@@ -30509,81 +30540,6 @@
               "nation": "Canada",
               "openBrowser": false,
               "stream": "http://cdn2.cyclingnews.live/abr/abr-stream1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMy8yMDIyIDI6MzYKOjU4CiBQTSZoYXNoX3ZhbHVlPVo4SUc3dnhwNm9rMkM2bzNyNWN2NEE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE5Mi4xNjguMTAwLjE0MCZzdHJtX2xlbj00"
-            }
-          ],
-          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/6wS9qzjUO_OJiwKs_768x432.jpg",
-          "timeYoutube": "2:26",
-          "type": 0
-        },
-        {
-          "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_96x96.png",
-          "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_96x96.png",
-          "hide": true,
-          "id": "-NHAVeJhxQCXmYFQ-v8a",
-          "isLive": false,
-          "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/uaY-p9kXP0iBWjTjMemCRw?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
-          "matchType": "Round of 16",
-          "millisecondsUTC": 1670094000000,
-          "nameCup": "FIFA World Cup 2022™",
-          "nameTeam1": "Argentina",
-          "nameTeam2": "Australia",
-          "stadium": "Ahmad bin Ali ",
-          "startTime": "today, 2:00 PM",
-          "streamingData": [
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "480p",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 2",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "720p HD",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 2 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_720p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "240p",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 2",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_240p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Mirror 480p HD",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 2",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2copy_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "720p HD",
-              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwctsn-s2/;",
-              "logo": "xeZBWOy",
-              "name": "itv 4",
-              "nation": "United Kingdom",
-              "openBrowser": false,
-              "stream": "http://slive.webhockey.xyz/hls/S2.m3u8"
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/Q6rdew7USRdM5fY1_768x432.jpg",

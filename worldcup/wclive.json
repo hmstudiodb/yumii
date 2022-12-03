@@ -30469,18 +30469,7 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
-              "description": "Mirror 2 720p HD",
-              "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://hgdsxzv.azureedge.net/live/TSN1/playlist.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Mirror 3 480p HD",
+              "description": "Mirror 2 | 480p HD",
               "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
               "logo": "HbiakTK",
               "name": "TSN 1 HD",
@@ -30491,10 +30480,32 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
+              "description": "Mirror 3 | 720p HD",
+              "headers": "Origin: http://motornews.live;\r\nReferer: http://motornews.live/novo/bite/03-wc-games-s1/?sport=soccer;",
+              "logo": "HbiakTK",
+              "name": "TSN 1 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "http://cdn2.cyclingnews.live/abr/abr-stream1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMy8yMDIyIDI6MzYKOjU4CiBQTSZoYXNoX3ZhbHVlPVo4SUc3dnhwNm9rMkM2bzNyNWN2NEE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE5Mi4xNjguMTAwLjE0MCZzdHJtX2xlbj00"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Mirror 4 | 480p",
+              "headers": "Origin: https://techclips.net;\r\nReferer: https://techclips.net/clip/s1.html;",
+              "logo": "HbiakTK",
+              "name": "TSN 1 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://cdn4.reels2watch.com/hls/s1.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
               "description": "720p HD",
-              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwctsn-s2/;",
-              "logo": "xeZBWOy",
-              "name": "itv 1",
+              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwctsn03-s1/?sport=soccer;",
+              "logo": "E9IuO1X",
+              "name": "BBC Sports",
               "nation": "United Kingdom",
               "openBrowser": false,
               "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"

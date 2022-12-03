@@ -2,8 +2,8 @@
   {
     "com.wc.live.streaming": {
       "ads_list": [
-      	"is",
-        "am"
+      	"am",
+      	"is"
       ],
       "am_in": "ca-app-pub-4783400630504930/6731315953",
       "bracket_url": "https://raw.githubusercontent.com/sportslivescore/euro2020/master/lineup/worldcup2022/9.png",

@@ -2,8 +2,8 @@
   {
     "com.wc.live.streaming": {
       "ads_list": [
-      	"am",
-      	"is"
+        "am",
+        "is"
       ],
       "am_in": "ca-app-pub-4783400630504930/6731315953",
       "bracket_url": "https://raw.githubusercontent.com/sportslivescore/euro2020/master/lineup/worldcup2022/9.png",
@@ -28032,7 +28032,7 @@
           "score1": "2",
           "score2": "1",
           "stadium": "Education City ",
-          "startTime": "Today",
+          "startTime": "Yesterday",
           "status": "Full-time",
           "streamingData": [
             {
@@ -28662,7 +28662,7 @@
           "score1": "0",
           "score2": "2",
           "stadium": "Al Janoub ",
-          "startTime": "Today",
+          "startTime": "Yesterday",
           "status": "Full-time",
           "streamingData": [
             {
@@ -29265,7 +29265,7 @@
           "score1": "2",
           "score2": "3",
           "stadium": "Stadium 974 - Ras Abu Aboud",
-          "startTime": "Today",
+          "startTime": "Yesterday",
           "status": "Full-time",
           "streamingData": [
             {
@@ -29855,7 +29855,7 @@
           "score1": "1",
           "score2": "0",
           "stadium": "Lusail ",
-          "startTime": "Today",
+          "startTime": "Yesterday",
           "status": "Full-time",
           "streamingData": [
             {
@@ -29884,6 +29884,530 @@
           "type": 1
         },
         {
+          "SOCCER_LINEUPS": {
+            "Manager": [
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "L. van Gaal",
+                "player2": "G. Berhalter",
+                "redCard1": false,
+                "redCard2": false,
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              }
+            ],
+            "Substitutes": [
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Remko Pasveer",
+                "player2": "Giovanni Reyna",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "1",
+                "shirt2": "7",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Matthijs de Ligt",
+                "player2": "Brenden Aaronson",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "3",
+                "shirt2": "11",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Stefan de Vrij",
+                "player2": "Ethan Horvath",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "6",
+                "shirt2": "12",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Steven Bergwijn",
+                "player2": "Luca de la Torre",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "7",
+                "shirt2": "14",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Luuk de Jong",
+                "player2": "Aaron Long",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "9",
+                "shirt2": "15",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Steven Berghuis",
+                "player2": "Jordan Morris",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "11",
+                "shirt2": "16",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Noa Lang",
+                "player2": "Cristian Roldan",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "12",
+                "shirt2": "17",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Justin Bijlow",
+                "player2": "Shaquell Moore",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "13",
+                "shirt2": "18",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Tyrell Malacia",
+                "player2": "Haji Wright",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "16",
+                "shirt2": "19",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Vincent Janssen",
+                "player2": "Cameron Carter-Vickers",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "18",
+                "shirt2": "20",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Wout Weghorst",
+                "player2": "DeAndre Yedlin",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "19",
+                "shirt2": "22",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Teun Koopmeiners",
+                "player2": "Kellyn Acosta",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "20",
+                "shirt2": "23",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Kenneth Taylor",
+                "player2": "Sean Johnson",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "24",
+                "shirt2": "25",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Xavi Simons",
+                "player2": "Joe Scally",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "25",
+                "shirt2": "26",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              }
+            ],
+            "formationTeam1": "3-4-1-2",
+            "formationTeam2": "4-3-3",
+            "lineupTeam1": [
+              [
+                {
+                  "color": "#fc6500",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Andries Noppert",
+                  "playerName": "A. Noppert",
+                  "playerNumber": "23",
+                  "playerPosition": "Goalkeeper",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#fc6500",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Jurrien Timber",
+                  "playerName": "J. Timber",
+                  "playerNumber": "2",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#fc6500",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Virgil van Dijk",
+                  "playerName": "V. van Dijk",
+                  "playerNumber": "4",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#fc6500",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Nathan Aké",
+                  "playerName": "N. Aké",
+                  "playerNumber": "5",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#fc6500",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Denzel Dumfries",
+                  "playerName": "D. Dumfries",
+                  "playerNumber": "22",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#fc6500",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Marten de Roon",
+                  "playerName": "M. de Roon",
+                  "playerNumber": "15",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#fc6500",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Frenkie de Jong",
+                  "playerName": "F. de Jong",
+                  "playerNumber": "21",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#fc6500",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Daley Blind",
+                  "playerName": "D. Blind",
+                  "playerNumber": "17",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#fc6500",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Davy Klaassen",
+                  "playerName": "D. Klaassen",
+                  "playerNumber": "14",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#fc6500",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Cody Gakpo",
+                  "playerName": "C. Gakpo",
+                  "playerNumber": "8",
+                  "playerPosition": "Striker",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 50.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#fc6500",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Memphis Depay",
+                  "playerName": "M. Depay",
+                  "playerNumber": "10",
+                  "playerPosition": "Striker",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 50.0,
+                  "yellowCard": false
+                }
+              ]
+            ],
+            "lineupTeam2": [
+              [
+                {
+                  "color": "#2733dc",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Christian Pulisic",
+                  "playerName": "C. Pulisic",
+                  "playerNumber": "10",
+                  "playerPosition": "Striker",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#2733dc",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Timothy Weah",
+                  "playerName": "T. Weah",
+                  "playerNumber": "21",
+                  "playerPosition": "Striker",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#2733dc",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Jesus Ferreira",
+                  "playerName": "J. Ferreira",
+                  "playerNumber": "9",
+                  "playerPosition": "Striker",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#2733dc",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Weston McKennie",
+                  "playerName": "W. McKennie",
+                  "playerNumber": "8",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#2733dc",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Tyler Adams",
+                  "playerName": "T. Adams",
+                  "playerNumber": "4",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#2733dc",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Yunus Musah",
+                  "playerName": "Y. Musah",
+                  "playerNumber": "6",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#2733dc",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Antonee Robinson",
+                  "playerName": "A. Robinson",
+                  "playerNumber": "5",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#2733dc",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Tim Ream",
+                  "playerName": "T. Ream",
+                  "playerNumber": "13",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#2733dc",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Walker Zimmerman",
+                  "playerName": "W. Zimmerman",
+                  "playerNumber": "3",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#2733dc",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Sergiño Dest",
+                  "playerName": "S. Dest",
+                  "playerNumber": "2",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#2733dc",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Matt Turner",
+                  "playerName": "M. Turner",
+                  "playerNumber": "1",
+                  "playerPosition": "Goalkeeper",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ]
+            ]
+          },
           "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",
           "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/wj9uZvn_vZrelLFGH8fnPA_96x96.png",
           "hide": true,
@@ -29896,10 +30420,7 @@
           "nameTeam1": "Netherlands",
           "nameTeam2": "USA",
           "stadium": "Khalifa International ",
-          "startTime": "tomorrow, 10:00 AM",
-          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/6wS9qzjUO_OJiwKs_768x432.jpg",
-          "timeYoutube": "2:26",
-          "type": 0,
+          "startTime": "today, 10:00 AM",
           "streamingData": [
             {
               "background": "#FFFFFF",
@@ -29943,7 +30464,7 @@
               "name": "TSN 1 HD",
               "nation": "Canada",
               "openBrowser": false,
-              "stream": "https://mainbb.s3.amazonaws.com/ch8/ch8_480p30.m3u8"
+              "stream": "https://mainbb.s3.amazonaws.com/ch1/ch1_480p30.m3u8"
             },
             {
               "background": "#FFFFFF",
@@ -29978,7 +30499,10 @@
               "openBrowser": false,
               "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
             }
-          ]
+          ],
+          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/6wS9qzjUO_OJiwKs_768x432.jpg",
+          "timeYoutube": "2:26",
+          "type": 0
         },
         {
           "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_96x96.png",
@@ -29993,10 +30517,7 @@
           "nameTeam1": "Argentina",
           "nameTeam2": "Australia",
           "stadium": "Ahmad bin Ali ",
-          "startTime": "tomorrow, 2:00 PM",
-          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/Q6rdew7USRdM5fY1_768x432.jpg",
-          "timeYoutube": "2:30",
-          "type": 0,
+          "startTime": "today, 2:00 PM",
           "streamingData": [
             {
               "background": "#FFFFFF",
@@ -30053,7 +30574,10 @@
               "openBrowser": false,
               "stream": "http://slive.webhockey.xyz/hls/S2.m3u8"
             }
-          ]
+          ],
+          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/Q6rdew7USRdM5fY1_768x432.jpg",
+          "timeYoutube": "2:30",
+          "type": 0
         },
         {
           "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png",

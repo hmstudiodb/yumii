@@ -2,10 +2,11 @@
   {
     "com.wc.live.streaming": {
       "ads_list": [
-        "am", "is"
+      	"is",
+        "am"
       ],
       "am_in": "ca-app-pub-4783400630504930/6731315953",
-      "bracket_url": "https://raw.githubusercontent.com/sportslivescore/euro2020/master/lineup/worldcup2022/8.png",
+      "bracket_url": "https://raw.githubusercontent.com/sportslivescore/euro2020/master/lineup/worldcup2022/9.png",
       "interval": 60000,
       "is_id": "179b194ad",
       "livescore": [
@@ -28074,7 +28075,7 @@
               "stats": "Passes",
               "suffix": "",
               "team1": 432.0,
-              "team2": 432.0
+              "team2": 433.0
             },
             {
               "stats": "Pass accuracy",
@@ -28690,96 +28691,1214 @@
           "type": 1
         },
         {
+          "MATCH_STATS": [
+            {
+              "stats": "Shots",
+              "suffix": "",
+              "team1": 12.0,
+              "team2": 14.0
+            },
+            {
+              "stats": "Shots on target",
+              "suffix": "",
+              "team1": 4.0,
+              "team2": 7.0
+            },
+            {
+              "stats": "Possession",
+              "suffix": "%",
+              "team1": 54.0,
+              "team2": 46.0
+            },
+            {
+              "stats": "Passes",
+              "suffix": "",
+              "team1": 466.0,
+              "team2": 415.0
+            },
+            {
+              "stats": "Pass accuracy",
+              "suffix": "%",
+              "team1": 77.0,
+              "team2": 76.0
+            },
+            {
+              "stats": "Fouls",
+              "suffix": "",
+              "team1": 18.0,
+              "team2": 14.0
+            },
+            {
+              "stats": "Yellow cards",
+              "suffix": "",
+              "team1": 7.0,
+              "team2": 4.0
+            },
+            {
+              "stats": "Red cards",
+              "suffix": "",
+              "team1": 0.0,
+              "team2": 0.0
+            },
+            {
+              "stats": "Offsides",
+              "suffix": "",
+              "team1": 0.0,
+              "team2": 0.0
+            },
+            {
+              "stats": "Corners",
+              "suffix": "",
+              "team1": 2.0,
+              "team2": 0.0
+            }
+          ],
+          "SOCCER_LINEUPS": {
+            "Manager": [
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "D. Stojković",
+                "player2": "M. Yakin",
+                "redCard1": false,
+                "redCard2": false,
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              }
+            ],
+            "Substitutes": [
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Marko Dmitrović",
+                "player2": "Edimilson Fernandes",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "1",
+                "shirt2": "2",
+                "substitutedIn1": false,
+                "substitutedIn2": true,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Strahinja Eraković",
+                "player2": "Denis Zakaria",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "3",
+                "shirt2": "6",
+                "substitutedIn1": false,
+                "substitutedIn2": true,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Nemanja Maksimović",
+                "player2": "Haris Seferovic",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "6",
+                "shirt2": "9",
+                "substitutedIn1": true,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Nemanja Radonjić",
+                "player2": "Renato Steffen",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "7",
+                "shirt2": "11",
+                "substitutedIn1": true,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Nemanja Gudelj",
+                "player2": "Jonas Omlin",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "8",
+                "shirt2": "12",
+                "substitutedIn1": true,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Luka Jović",
+                "player2": "Michel Aebischer",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "11",
+                "shirt2": "14",
+                "substitutedIn1": true,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Predrag Rajković",
+                "player2": "Christian Fassnacht",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "12",
+                "shirt2": "16",
+                "substitutedIn1": true,
+                "substitutedIn2": true,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Stefan Mitrović",
+                "player2": "Eray Cömert",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "13",
+                "shirt2": "18",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Srđan Babić",
+                "player2": "Noah Okafor",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "15",
+                "shirt2": "19",
+                "substitutedIn1": false,
+                "substitutedIn2": true,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Uroš Račić",
+                "player2": "Fabian Frei",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "19",
+                "shirt2": "20",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Filip Đuričić",
+                "player2": "Fabian Rieder",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "21",
+                "shirt2": "25",
+                "substitutedIn1": true,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Darko Lazović",
+                "player2": "Ardon Jashari",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "22",
+                "shirt2": "26",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              }
+            ],
+            "formationTeam1": "3-4-1-2",
+            "formationTeam2": "4-2-3-1",
+            "lineupTeam1": [
+              [
+                {
+                  "color": "#8c0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Vanja Milinković-Savić",
+                  "playerName": "V. Milinković-Savić",
+                  "playerNumber": "23",
+                  "playerPosition": "Goalkeeper",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#8c0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Nikola Milenković",
+                  "playerName": "N. Milenković",
+                  "playerNumber": "4",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": true
+                },
+                {
+                  "color": "#8c0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Miloš Veljković",
+                  "playerName": "M. Veljković",
+                  "playerNumber": "5",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#8c0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Strahinja Pavlović",
+                  "playerName": "S. Pavlović",
+                  "playerNumber": "2",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": true
+                }
+              ],
+              [
+                {
+                  "color": "#8c0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Andrija Živković",
+                  "playerName": "A. Živković",
+                  "playerNumber": "14",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#8c0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Saša Lukić",
+                  "playerName": "S. Lukić",
+                  "playerNumber": "16",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": true
+                },
+                {
+                  "color": "#8c0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Sergej Milinković-Savić",
+                  "playerName": "S. Milinković-Savić",
+                  "playerNumber": "20",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": true
+                },
+                {
+                  "color": "#8c0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Filip Kostić",
+                  "playerName": "F. Kostić",
+                  "playerNumber": "17",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#8c0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Dušan Tadić",
+                  "playerName": "D. Tadić",
+                  "playerNumber": "10",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#8c0000",
+                  "goals": 1,
+                  "ownGoal": false,
+                  "playerFullName": "Dušan Vlahović",
+                  "playerName": "D. Vlahović",
+                  "playerNumber": "18",
+                  "playerPosition": "Striker",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 50.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#8c0000",
+                  "goals": 1,
+                  "ownGoal": false,
+                  "playerFullName": "Aleksandar Mitrović",
+                  "playerName": "A. Mitrović",
+                  "playerNumber": "9",
+                  "playerPosition": "Striker",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 50.0,
+                  "yellowCard": true
+                }
+              ]
+            ],
+            "lineupTeam2": [
+              [
+                {
+                  "color": "#ff6742",
+                  "goals": 1,
+                  "ownGoal": false,
+                  "playerFullName": "Breel Embolo",
+                  "playerName": "B. Embolo",
+                  "playerNumber": "7",
+                  "playerPosition": "Striker",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#ff6742",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Ruben Vargas",
+                  "playerName": "R. Vargas",
+                  "playerNumber": "17",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": true
+                },
+                {
+                  "color": "#ff6742",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Djibril Sow",
+                  "playerName": "D. Sow",
+                  "playerNumber": "15",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#ff6742",
+                  "goals": 1,
+                  "ownGoal": false,
+                  "playerFullName": "Xherdan Shaqiri",
+                  "playerName": "X. Shaqiri",
+                  "playerNumber": "23",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#ff6742",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Granit Xhaka",
+                  "playerName": "G. Xhaka",
+                  "playerNumber": "10",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 50.0,
+                  "yellowCard": true
+                },
+                {
+                  "color": "#ff6742",
+                  "goals": 1,
+                  "ownGoal": false,
+                  "playerFullName": "Remo Freuler",
+                  "playerName": "R. Freuler",
+                  "playerNumber": "8",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 50.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#ff6742",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Ricardo Rodriguez",
+                  "playerName": "R. Rodríguez",
+                  "playerNumber": "13",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#ff6742",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Manuel Akanji",
+                  "playerName": "M. Akanji",
+                  "playerNumber": "5",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#ff6742",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Fabian Schär",
+                  "playerName": "F. Schär",
+                  "playerNumber": "22",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": true
+                },
+                {
+                  "color": "#ff6742",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Silvan Widmer",
+                  "playerName": "S. Widmer",
+                  "playerNumber": "3",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": true
+                }
+              ],
+              [
+                {
+                  "color": "#ff6742",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Gregor Kobel",
+                  "playerName": "G. Kobel",
+                  "playerNumber": "21",
+                  "playerPosition": "Goalkeeper",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ]
+            ]
+          },
           "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/xyh1vmZ-xJH2iJCKjqS1Ow_96x96.png",
           "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/1hy9ek4dOIffYULM6k1fqg_96x96.png",
           "hide": true,
           "id": "-NHAVeJfzmhe7s0B33GU",
-          "isLive": true,
-          "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/2eGQpVrN00ee-QrQFWJTSA?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
+          "isLive": false,
+          "linkYoutube": "https://www.fifa.com/fifaplus/watch/5zhQXHFUeDq5moHCb9YBHq",
           "matchType": "Group Stage · Group G",
           "millisecondsUTC": 1670007600000,
           "nameCup": "FIFA World Cup 2022™",
           "nameTeam1": "Serbia",
           "nameTeam2": "Switzerland",
+          "score1": "2",
+          "score2": "3",
           "stadium": "Stadium 974 - Ras Abu Aboud",
-          "startTime": "today, 2:00 PM",
-          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/peGU4UOPch8joVAI_768x432.jpg",
-          "timeYoutube": "2:40",
-          "type": 0,
+          "startTime": "Today",
+          "status": "Full-time",
           "streamingData": [
             {
               "background": "#FFFFFF",
               "dateTime": 0,
-              "description": "480p",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "description": "Highlights",
+              "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
               "logo": "HbiakTK",
               "name": "TSN 2",
               "nation": "Canada",
               "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "720p HD",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 2 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_720p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "240p",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 2",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_240p30.m3u8"
-            },
-             {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Mirror 480p HD",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 2",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2copy_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "720p HD",
-              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwctsn-s2/;",
-              "logo": "xeZBWOy",
-              "name": "itv 4",
-              "nation": "United Kingdom",
-              "openBrowser": false,
-              "stream": "http://slive.webhockey.xyz/hls/S2.m3u8"
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/2/42/242104/360p.m3u8"
             }
-          ]
+          ],
+          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/RpnavcAfXZ3GjIob_192x108.jpg",
+          "timeYoutube": "2:00",
+          "type": 0
         },
         {
+          "MATCH_STATS": [
+            {
+              "stats": "Shots",
+              "suffix": "",
+              "team1": 7.0,
+              "team2": 21.0
+            },
+            {
+              "stats": "Shots on target",
+              "suffix": "",
+              "team1": 3.0,
+              "team2": 7.0
+            },
+            {
+              "stats": "Possession",
+              "suffix": "%",
+              "team1": 35.0,
+              "team2": 65.0
+            },
+            {
+              "stats": "Passes",
+              "suffix": "",
+              "team1": 299.0,
+              "team2": 541.0
+            },
+            {
+              "stats": "Pass accuracy",
+              "suffix": "%",
+              "team1": 77.0,
+              "team2": 87.0
+            },
+            {
+              "stats": "Fouls",
+              "suffix": "",
+              "team1": 14.0,
+              "team2": 14.0
+            },
+            {
+              "stats": "Yellow cards",
+              "suffix": "",
+              "team1": 3.0,
+              "team2": 2.0
+            },
+            {
+              "stats": "Red cards",
+              "suffix": "",
+              "team1": 1.0,
+              "team2": 0.0
+            },
+            {
+              "stats": "Offsides",
+              "suffix": "",
+              "team1": 0.0,
+              "team2": 1.0
+            },
+            {
+              "stats": "Corners",
+              "suffix": "",
+              "team1": 3.0,
+              "team2": 11.0
+            }
+          ],
+          "SOCCER_LINEUPS": {
+            "Manager": [
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "R. Song",
+                "player2": "Tite",
+                "redCard1": false,
+                "redCard2": false,
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              }
+            ],
+            "Substitutes": [
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Simon Ngapandouetnbu",
+                "player2": "Alisson Becker",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "1",
+                "shirt2": "1",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Jerome Ngom Mbekeli",
+                "player2": "Thiago Silva",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "2",
+                "shirt2": "3",
+                "substitutedIn1": true,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Gaël Ondoua",
+                "player2": "Marquinhos",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "5",
+                "shirt2": "4",
+                "substitutedIn1": false,
+                "substitutedIn2": true,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Georges-Kévin N'Koudou",
+                "player2": "Casemiro",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "7",
+                "shirt2": "5",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Jean-Pierre Nsame",
+                "player2": "Lucas Paquetá",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "9",
+                "shirt2": "7",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Christian Mougang Bassogog",
+                "player2": "Richarlison",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "11",
+                "shirt2": "9",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Karl Toko Ekambi",
+                "player2": "Raphinha",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "12",
+                "shirt2": "11",
+                "substitutedIn1": true,
+                "substitutedIn2": true,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Samuel Oum Gouet",
+                "player2": "Weverton Pereira da Silva",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "14",
+                "shirt2": "12",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Olivier Mbaizo",
+                "player2": "Bruno Guimarães",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "17",
+                "shirt2": "17",
+                "substitutedIn1": false,
+                "substitutedIn2": true,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Olivier Ntcham",
+                "player2": "Vini Jr.",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "22",
+                "shirt2": "20",
+                "substitutedIn1": true,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Souaibou Marou",
+                "player2": "Éverton Ribeiro",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "26",
+                "shirt2": "22",
+                "substitutedIn1": false,
+                "substitutedIn2": true,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "redCard1": false,
+                "redCard2": false,
+                "substitutedIn1": false,
+                "substitutedIn2": true,
+                "yellowCard1": false,
+                "yellowCard2": false
+              }
+            ],
+            "formationTeam1": "4-2-3-1",
+            "formationTeam2": "4-2-3-1",
+            "lineupTeam1": [
+              [
+                {
+                  "color": "#054c40",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Devis Epassy",
+                  "playerName": "D. Epassy",
+                  "playerNumber": "16",
+                  "playerPosition": "Goalkeeper",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#054c40",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Collins Fai",
+                  "playerName": "C. Fai",
+                  "playerNumber": "19",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": true
+                },
+                {
+                  "color": "#054c40",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Christopher Wooh",
+                  "playerName": "C. Wooh",
+                  "playerNumber": "4",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#054c40",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Enzo Ebosse",
+                  "playerName": "E. Ebosse",
+                  "playerNumber": "24",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#054c40",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Nouhou Tolo",
+                  "playerName": "N. Tolo",
+                  "playerNumber": "25",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": true
+                }
+              ],
+              [
+                {
+                  "color": "#054c40",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Pierre Kunde",
+                  "playerName": "P. Kunde",
+                  "playerNumber": "15",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 50.0,
+                  "yellowCard": true
+                },
+                {
+                  "color": "#054c40",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "André-Frank Zambo Anguissa",
+                  "playerName": "A. Anguissa",
+                  "playerNumber": "8",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 50.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#054c40",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Bryan Mbeumo",
+                  "playerName": "B. Mbeumo",
+                  "playerNumber": "20",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#054c40",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Eric Maxim Choupo-Moting",
+                  "playerName": "E. Choupo-Moting",
+                  "playerNumber": "13",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#054c40",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Moumi Ngamaleu",
+                  "playerName": "M. Ngamaleu",
+                  "playerNumber": "6",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#054c40",
+                  "goals": 1,
+                  "ownGoal": false,
+                  "playerFullName": "Vincent Aboubakar",
+                  "playerName": "V. Aboubakar",
+                  "playerNumber": "10",
+                  "playerPosition": "Striker",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ]
+            ],
+            "lineupTeam2": [
+              [
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Gabriel Jesus",
+                  "playerName": "G. Jesus",
+                  "playerNumber": "18",
+                  "playerPosition": "Striker",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Gabriel Martinelli",
+                  "playerName": "G. Martinelli",
+                  "playerNumber": "26",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Rodrygo",
+                  "playerName": "Rodrygo",
+                  "playerNumber": "21",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Antony",
+                  "playerName": "Antony",
+                  "playerNumber": "19",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Fabinho",
+                  "playerName": "Fabinho",
+                  "playerNumber": "15",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 50.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Fred",
+                  "playerName": "Fred",
+                  "playerNumber": "8",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 50.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Alex Telles",
+                  "playerName": "A. Telles",
+                  "playerNumber": "16",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Gleison Bremer",
+                  "playerName": "G. Bremer",
+                  "playerNumber": "24",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Éder Militão",
+                  "playerName": "É. Militão",
+                  "playerNumber": "14",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": true
+                },
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Dani Alves",
+                  "playerName": "D. Alves",
+                  "playerNumber": "13",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Ederson",
+                  "playerName": "Ederson",
+                  "playerNumber": "23",
+                  "playerPosition": "Goalkeeper",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ]
+            ]
+          },
           "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/fmHyTSbJ-cYbY6WJzvqaZQ_96x96.png",
           "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_96x96.png",
           "hide": true,
           "id": "-NHAVeJfzmhe7s0B33GV",
-          "isLive": true,
-          "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/ywwd2JyKqE-LLKqbsY0amg?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
+          "isLive": false,
+          "linkYoutube": "https://www.fifa.com/fifaplus/watch/3CtTvaZsk500quwd8JAoXP",
           "matchType": "Group Stage · Group G",
           "millisecondsUTC": 1670007600000,
           "nameCup": "FIFA World Cup 2022™",
           "nameTeam1": "Cameroon",
           "nameTeam2": "Brazil",
+          "score1": "1",
+          "score2": "0",
           "stadium": "Lusail ",
-          "startTime": "today, 2:00 PM",
-          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/L4TGu6ISCFVRcJ0P_768x432.jpg",
-          "timeYoutube": "2:43",
+          "startTime": "Today",
+          "status": "Full-time",
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Highlights",
+              "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/2/42/242103/360p.m3u8"
+            }
+          ],
+          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/QSLv0Bq-YhQt1S_g_768x432.jpg",
+          "timeYoutube": "2:00",
+          "type": 0
+        },
+        {
+          "hide": true,
+          "id": "-NHAVeJgoWF4LAxjAdRE",
+          "isLive": false,
+          "matchType": "Round of 16",
+          "millisecondsUTC": 1670079600000,
+          "startTime": "Dec 3, 18:00",
+          "type": 1
+        },
+        {
+          "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",
+          "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/wj9uZvn_vZrelLFGH8fnPA_96x96.png",
+          "hide": true,
+          "id": "-NHAVeJhxQCXmYFQ-v8_",
+          "isLive": false,
+          "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/eou5lc9-Z0q5i_Gf-3rKbQ?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
+          "matchType": "Round of 16",
+          "millisecondsUTC": 1670079600000,
+          "nameCup": "FIFA World Cup 2022™",
+          "nameTeam1": "Netherlands",
+          "nameTeam2": "USA",
+          "stadium": "Khalifa International ",
+          "startTime": "tomorrow, 10:00 AM",
+          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/6wS9qzjUO_OJiwKs_768x432.jpg",
+          "timeYoutube": "2:26",
           "type": 0,
           "streamingData": [
             {
@@ -28862,35 +29981,12 @@
           ]
         },
         {
-          "hide": true,
-          "id": "-NHAVeJgoWF4LAxjAdRE",
-          "isLive": false,
-          "matchType": "Round of 16",
-          "millisecondsUTC": 1670079600000,
-          "startTime": "Dec 3, 18:00",
-          "type": 1
-        },
-        {
-          "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",
-          "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/wj9uZvn_vZrelLFGH8fnPA_96x96.png",
-          "hide": true,
-          "id": "-NHAVeJhxQCXmYFQ-v8_",
-          "isLive": false,
-          "matchType": "Round of 16",
-          "millisecondsUTC": 1670079600000,
-          "nameCup": "FIFA World Cup 2022™",
-          "nameTeam1": "Netherlands",
-          "nameTeam2": "USA",
-          "stadium": "Khalifa International ",
-          "startTime": "tomorrow, 10:00 AM",
-          "type": 0
-        },
-        {
           "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_96x96.png",
           "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_96x96.png",
           "hide": true,
           "id": "-NHAVeJhxQCXmYFQ-v8a",
           "isLive": false,
+          "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/uaY-p9kXP0iBWjTjMemCRw?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
           "matchType": "Round of 16",
           "millisecondsUTC": 1670094000000,
           "nameCup": "FIFA World Cup 2022™",
@@ -28898,7 +29994,66 @@
           "nameTeam2": "Australia",
           "stadium": "Ahmad bin Ali ",
           "startTime": "tomorrow, 2:00 PM",
-          "type": 0
+          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/Q6rdew7USRdM5fY1_768x432.jpg",
+          "timeYoutube": "2:30",
+          "type": 0,
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "480p",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 2",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "720p HD",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 2 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_720p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "240p",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 2",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2_240p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Mirror 480p HD",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 2",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn2copy_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "720p HD",
+              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwctsn-s2/;",
+              "logo": "xeZBWOy",
+              "name": "itv 4",
+              "nation": "United Kingdom",
+              "openBrowser": false,
+              "stream": "http://slive.webhockey.xyz/hls/S2.m3u8"
+            }
+          ]
         },
         {
           "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png",
@@ -28939,6 +30094,7 @@
           "hide": true,
           "id": "-NHAVeJkLCcWO9SRR8pb",
           "isLive": false,
+          "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/_lvFh06ZFESEWoz9FTXsQQ?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
           "matchType": "Round of 16",
           "millisecondsUTC": 1670252400000,
           "nameCup": "FIFA World Cup 2022™",
@@ -28946,9 +30102,12 @@
           "nameTeam2": "Croatia",
           "stadium": "Al Janoub ",
           "startTime": "Mon, Dec 5, 10:00 AM",
+          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/WX5h4Bl44camtJiP_768x432.jpg",
+          "timeYoutube": "Match preview, duration 1 minute and 40 seconds",
           "type": 0
         },
         {
+          "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_96x96.png",
           "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/Uu5pwNmMHGd5bCooKrS3Lw_96x96.png",
           "hide": true,
           "id": "-NHAVeJlyQSAScpZrlij",
@@ -28956,7 +30115,8 @@
           "matchType": "Round of 16",
           "millisecondsUTC": 1670266800000,
           "nameCup": "FIFA World Cup 2022™",
-          "nameTeam1": "South Korea",
+          "nameTeam1": "Brazil",
+          "nameTeam2": "South Korea",
           "stadium": "Stadium 974 - Ras Abu Aboud",
           "startTime": "Mon, Dec 5, 2:00 PM",
           "type": 0
@@ -28967,6 +30127,7 @@
           "hide": true,
           "id": "-NHAVeJlyQSAScpZrlik",
           "isLive": false,
+          "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/_XGynqEeRk-dZPbPr32LwQ?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
           "matchType": "Round of 16",
           "millisecondsUTC": 1670338800000,
           "nameCup": "FIFA World Cup 2022™",
@@ -28974,10 +30135,13 @@
           "nameTeam2": "Spain",
           "stadium": "Education City ",
           "startTime": "Tue, Dec 6, 10:00 AM",
+          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/2bNhUgh3Bvfin4rg_768x432.jpg",
+          "timeYoutube": "Match preview, duration 1 minute and 51 seconds",
           "type": 0
         },
         {
           "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_96x96.png",
+          "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/1hy9ek4dOIffYULM6k1fqg_96x96.png",
           "hide": true,
           "id": "-NHAVeJmGgOWODm7bSPp",
           "isLive": false,
@@ -28985,6 +30149,7 @@
           "millisecondsUTC": 1670353200000,
           "nameCup": "FIFA World Cup 2022™",
           "nameTeam1": "Portugal",
+          "nameTeam2": "Switzerland",
           "stadium": "Lusail ",
           "startTime": "Tue, Dec 6, 2:00 PM",
           "type": 0

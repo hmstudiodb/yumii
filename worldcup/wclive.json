@@ -30504,6 +30504,111 @@
           "type": 0
         },
         {
+          "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_96x96.png",
+          "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_96x96.png",
+          "hide": true,
+          "id": "-NHAVeJhxQCXmYFQ-v8a",
+          "isLive": false,
+          "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/uaY-p9kXP0iBWjTjMemCRw?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
+          "matchType": "Round of 16",
+          "millisecondsUTC": 1670094000000,
+          "nameCup": "FIFA World Cup 2022™",
+          "nameTeam1": "Argentina",
+          "nameTeam2": "Australia",
+          "stadium": "Ahmad bin Ali ",
+          "startTime": "today, 2:00 PM",
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "480p",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "720p HD",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_720p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "240p",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_240p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Mirror 1 | 480p",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Mirror 2 | 720p",
+              "headers": "Origin: https://nflseasonpass.com;\r\nReferer: https://nflseasonpass.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://mainbb.s3.amazonaws.com/ch1/ch1_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Mirror 3 | 720p",
+              "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://1ahdgay.azureedge.net/live/TSN1/playlist.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Mirror 4 | 480p",
+              "headers": "Origin: https://techclips.net;\r\nReferer: https://techclips.net/clip/s1.html;",
+              "logo": "HbiakTK",
+              "name": "TSN 1 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://cdn4.reels2watch.com/hls/s1.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "720p HD",
+              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwctsn03-s1/?sport=soccer;",
+              "logo": "E9IuO1X",
+              "name": "BBC Sports",
+              "nation": "United Kingdom",
+              "openBrowser": false,
+              "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
+            }
+          ],
+          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/Q6rdew7USRdM5fY1_768x432.jpg",
+          "timeYoutube": "2:30",
           "SOCCER_LINEUPS": {
             "Manager": [
               {
@@ -31040,111 +31145,6 @@
               ]
             ]
           },
-          "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_96x96.png",
-          "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_96x96.png",
-          "hide": true,
-          "id": "-NHAVeJhxQCXmYFQ-v8a",
-          "isLive": false,
-          "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/uaY-p9kXP0iBWjTjMemCRw?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
-          "matchType": "Round of 16",
-          "millisecondsUTC": 1670094000000,
-          "nameCup": "FIFA World Cup 2022™",
-          "nameTeam1": "Argentina",
-          "nameTeam2": "Australia",
-          "stadium": "Ahmad bin Ali ",
-          "startTime": "today, 2:00 PM",
-          "streamingData": [
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "480p",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "720p HD",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_720p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "240p",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_240p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Mirror 1 | 480p",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Mirror 2 | 720p",
-              "headers": "Origin: https://nflseasonpass.com;\r\nReferer: https://nflseasonpass.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://mainbb.s3.amazonaws.com/ch1/ch1_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Mirror 3 | 720p",
-              "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://1ahdgay.azureedge.net/live/TSN1/playlist.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Mirror 4 | 480p",
-              "headers": "Origin: https://techclips.net;\r\nReferer: https://techclips.net/clip/s1.html;",
-              "logo": "HbiakTK",
-              "name": "TSN 1 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://cdn4.reels2watch.com/hls/s1.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "720p HD",
-              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwctsn03-s1/?sport=soccer;",
-              "logo": "E9IuO1X",
-              "name": "BBC Sports",
-              "nation": "United Kingdom",
-              "openBrowser": false,
-              "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
-            }
-          ],
-          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/Q6rdew7USRdM5fY1_768x432.jpg",
-          "timeYoutube": "2:30",
           "type": 0
         },
         {

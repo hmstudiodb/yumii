@@ -30431,7 +30431,7 @@
               "name": "TSN 1",
               "nation": "Canada",
               "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_480p30.m3u8"
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_480p30.m3u8"
             },
             {
               "background": "#FFFFFF",
@@ -30442,7 +30442,7 @@
               "name": "TSN 1 HD",
               "nation": "Canada",
               "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_720p30.m3u8"
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_720p30.m3u8"
             },
             {
               "background": "#FFFFFF",
@@ -30453,7 +30453,7 @@
               "name": "TSN 1",
               "nation": "Canada",
               "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_240p30.m3u8"
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_240p30.m3u8"
             },
             {
               "background": "#FFFFFF",
@@ -30464,12 +30464,23 @@
               "name": "TSN 1 HD",
               "nation": "Canada",
               "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_480p30.m3u8"
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_480p30.m3u8"
             },
             {
               "background": "#FFFFFF",
               "dateTime": 0,
-              "description": "Mirror 2 | 480p",
+              "description": "Mirror 2 | 720p",
+              "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://1ahdgay.azureedge.net/live/TSN1/playlist.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Mirror 3 | 480p",
               "headers": "Origin: https://techclips.net;\r\nReferer: https://techclips.net/clip/s1.html;",
               "logo": "HbiakTK",
               "name": "TSN 1 HD",

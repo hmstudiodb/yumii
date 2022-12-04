@@ -31122,13 +31122,24 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
-              "description": "480p",
-              "headers": "Origin: https://nflseasonpass.com;\r\nReferer: https://nflseasonpass.com/;",
+              "description": "Mirror 3 | 720p",
+              "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
               "logo": "HbiakTK",
-              "name": "TSN 1",
+              "name": "TSN 1 HD",
               "nation": "Canada",
               "openBrowser": false,
-              "stream": "https://mainbb.s3.amazonaws.com/ch1/ch1_480p30.m3u8"
+              "stream": "https://1ahdgay.azureedge.net/live/TSN1/playlist.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Mirror 4 | 480p",
+              "headers": "Origin: https://techclips.net;\r\nReferer: https://techclips.net/clip/s1.html;",
+              "logo": "HbiakTK",
+              "name": "TSN 1 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://cdn4.reels2watch.com/hls/s1.m3u8"
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/ou9B5nK0y5s3JlC6_768x432.jpg",

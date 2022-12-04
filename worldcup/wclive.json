@@ -31844,7 +31844,7 @@
               "name": "TSN 4 HD",
               "nation": "Canada",
               "openBrowser": false,
-              "stream": "https://cdn4.reels2watch.com/hls/s1.m3u8"
+              "stream": "https://reels2watch.com/hls/s1.m3u8"
             },
             {
               "background": "#FFFFFF",
@@ -31856,6 +31856,17 @@
               "nation": "United Kingdom",
               "openBrowser": false,
               "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Mirror | 720p HD",
+              "headers": "Origin: http://motornews.live;\r\nReferer: http://motornews.live/novo/bite/04-wc-games-s1/;",
+              "logo": "xeZBWOy",
+              "name": "itv 1",
+              "nation": "United Kingdom",
+              "openBrowser": false,
+              "stream": "http://cdn1.cyclingnews.live/abr/abr-stream1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDY6MTQKOjQwCiBQTSZoYXNoX3ZhbHVlPTFoZ3A5RVZnb3NQUW83N0h0VXdEWXc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE5Mi4xNjguMTAwLjE0MCZzdHJtX2xlbj00"
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/xX80zD9hsVp0AlEY_768x432.jpg",

@@ -31763,6 +31763,17 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
+              "description": "Mirror 2 | 720p",
+              "headers": "Origin: https://nflseasonpass.com;\r\nReferer: https://nflseasonpass.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://mainbb.s3.amazonaws.com/ch1/ch1_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
               "description": "Mirror 4 | 480p",
               "headers": "Origin: https://techclips.net;\r\nReferer: https://techclips.net/clip/s1.html;",
               "logo": "HbiakTK",

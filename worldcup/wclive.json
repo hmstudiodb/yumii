@@ -6,7 +6,7 @@
         "is"
       ],
       "am_in": "ca-app-pub-4783400630504930/6731315953",
-      "bracket_url": "https://raw.githubusercontent.com/sportslivescore/euro2020/master/lineup/worldcup2022/11.png",
+      "bracket_url": "https://raw.githubusercontent.com/sportslivescore/euro2020/master/lineup/worldcup2022/12.png",
       "interval": 60000,
       "is_id": "179b194ad",
       "livescore": [
@@ -30484,7 +30484,7 @@
           "score1": "3",
           "score2": "1",
           "stadium": "Khalifa International ",
-          "startTime": "Today",
+          "startTime": "Yesterday",
           "status": "Full-time",
           "streamingData": [
             {
@@ -31116,30 +31116,19 @@
           "score1": "2",
           "score2": "1",
           "stadium": "Ahmad bin Ali ",
-          "startTime": "Today",
+          "startTime": "Yesterday",
           "status": "Full-time",
           "streamingData": [
             {
               "background": "#FFFFFF",
               "dateTime": 0,
-              "description": "Mirror 3 | 720p",
-              "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
+              "description": "Highlights",
+              "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
               "logo": "HbiakTK",
-              "name": "TSN 1 HD",
+              "name": "TSN",
               "nation": "Canada",
               "openBrowser": false,
-              "stream": "https://1ahdgay.azureedge.net/live/TSN1/playlist.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Mirror 4 | 480p",
-              "headers": "Origin: https://techclips.net;\r\nReferer: https://techclips.net/clip/s1.html;",
-              "logo": "HbiakTK",
-              "name": "TSN 1 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://cdn4.reels2watch.com/hls/s1.m3u8"
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/3/51/242215/360p.m3u8"
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/ou9B5nK0y5s3JlC6_768x432.jpg",
@@ -31147,6 +31136,580 @@
           "type": 0
         },
         {
+          "MATCH_STATS": [
+            {
+              "stats": "Shots",
+              "suffix": "",
+              "team1": 16.0,
+              "team2": 12.0
+            },
+            {
+              "stats": "Shots on target",
+              "suffix": "",
+              "team1": 8.0,
+              "team2": 3.0
+            },
+            {
+              "stats": "Possession",
+              "suffix": "%",
+              "team1": 55.0,
+              "team2": 45.0
+            },
+            {
+              "stats": "Passes",
+              "suffix": "",
+              "team1": 551.0,
+              "team2": 455.0
+            },
+            {
+              "stats": "Pass accuracy",
+              "suffix": "%",
+              "team1": 86.0,
+              "team2": 82.0
+            },
+            {
+              "stats": "Fouls",
+              "suffix": "",
+              "team1": 10.0,
+              "team2": 8.0
+            },
+            {
+              "stats": "Yellow cards",
+              "suffix": "",
+              "team1": 1.0,
+              "team2": 2.0
+            },
+            {
+              "stats": "Red cards",
+              "suffix": "",
+              "team1": 0.0,
+              "team2": 0.0
+            },
+            {
+              "stats": "Offsides",
+              "suffix": "",
+              "team1": 3.0,
+              "team2": 1.0
+            },
+            {
+              "stats": "Corners",
+              "suffix": "",
+              "team1": 7.0,
+              "team2": 1.0
+            }
+          ],
+          "SOCCER_LINEUPS": {
+            "Manager": [
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "D. Deschamps",
+                "player2": "C. Michniewicz",
+                "redCard1": false,
+                "redCard2": false,
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              }
+            ],
+            "Substitutes": [
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Benjamin Pavard",
+                "player2": "Artur Jędrzejczyk",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "2",
+                "shirt2": "3",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Axel Disasi",
+                "player2": "Mateusz Wieteska",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "3",
+                "shirt2": "4",
+                "substitutedIn1": true,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Mattéo Guendouzi",
+                "player2": "Jan Bednarek",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "6",
+                "shirt2": "5",
+                "substitutedIn1": false,
+                "substitutedIn2": true,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Randal Kolo Muani",
+                "player2": "Krystian Bielik",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "12",
+                "shirt2": "6",
+                "substitutedIn1": false,
+                "substitutedIn2": true,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Youssouf Fofana",
+                "player2": "Arkadiusz Milik",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "13",
+                "shirt2": "7",
+                "substitutedIn1": true,
+                "substitutedIn2": true,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Jordan Veretout",
+                "player2": "Damian Szymański",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "15",
+                "shirt2": "8",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Steve Mandanda",
+                "player2": "Kamil Grosicki",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "16",
+                "shirt2": "11",
+                "substitutedIn1": false,
+                "substitutedIn2": true,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "William Saliba",
+                "player2": "Łukasz Skorupski",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "17",
+                "shirt2": "12",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Kingsley Coman",
+                "player2": "Karol Świderski",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "20",
+                "shirt2": "16",
+                "substitutedIn1": true,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Alphonse Areola",
+                "player2": "Szymon Żurkowski",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "23",
+                "shirt2": "17",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Ibrahima Konaté",
+                "player2": "Nicola Zalewski",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "24",
+                "shirt2": "21",
+                "substitutedIn1": false,
+                "substitutedIn2": true,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Eduardo Camavinga",
+                "player2": "Kamil Grabara",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "25",
+                "shirt2": "22",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Marcus Thuram",
+                "player2": "Krzysztof Piątek",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "26",
+                "shirt2": "23",
+                "substitutedIn1": true,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              }
+            ],
+            "formationTeam1": "4-2-3-1",
+            "formationTeam2": "4-1-4-1",
+            "lineupTeam1": [
+              [
+                {
+                  "color": "#4293ED",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Hugo Lloris",
+                  "playerName": "H. Lloris",
+                  "playerNumber": "1",
+                  "playerPosition": "Goalkeeper",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#4293ED",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Jules Koundé",
+                  "playerName": "J. Koundé",
+                  "playerNumber": "5",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#4293ED",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Raphaël Varane",
+                  "playerName": "R. Varane",
+                  "playerNumber": "4",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#4293ED",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Dayot Upamecano",
+                  "playerName": "D. Upamecano",
+                  "playerNumber": "18",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#4293ED",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Theo Hernández",
+                  "playerName": "T. Hernández",
+                  "playerNumber": "22",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#4293ED",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Aurélien Tchouaméni",
+                  "playerName": "A. Tchouaméni",
+                  "playerNumber": "8",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 50.0,
+                  "yellowCard": true
+                },
+                {
+                  "color": "#4293ED",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Adrien Rabiot",
+                  "playerName": "A. Rabiot",
+                  "playerNumber": "14",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 50.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#4293ED",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Ousmane Dembélé",
+                  "playerName": "O. Dembélé",
+                  "playerNumber": "11",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#4293ED",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Antoine Griezmann",
+                  "playerName": "A. Griezmann",
+                  "playerNumber": "7",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#4293ED",
+                  "goals": 2,
+                  "ownGoal": false,
+                  "playerFullName": "Kylian Mbappé",
+                  "playerName": "K. Mbappe",
+                  "playerNumber": "10",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#4293ED",
+                  "goals": 1,
+                  "ownGoal": false,
+                  "playerFullName": "Olivier Giroud",
+                  "playerName": "O. Giroud",
+                  "playerNumber": "9",
+                  "playerPosition": "Striker",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ]
+            ],
+            "lineupTeam2": [
+              [
+                {
+                  "color": "#FF0000",
+                  "goals": 1,
+                  "ownGoal": false,
+                  "playerFullName": "Robert Lewandowski",
+                  "playerName": "R. Lewandowski",
+                  "playerNumber": "9",
+                  "playerPosition": "Striker",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#FF0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Przemysław Frankowski",
+                  "playerName": "P. Frankowski",
+                  "playerNumber": "24",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#FF0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Sebastian Szymański",
+                  "playerName": "S. Szymanski",
+                  "playerNumber": "19",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#FF0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Piotr Zieliński",
+                  "playerName": "P. Zieliński",
+                  "playerNumber": "20",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#FF0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Jakub Kamiński",
+                  "playerName": "J. Kamiński",
+                  "playerNumber": "13",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#FF0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Grzegorz Krychowiak",
+                  "playerName": "G. Krychowiak",
+                  "playerNumber": "10",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#FF0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Bartosz Bereszyński",
+                  "playerName": "B. Bereszyński",
+                  "playerNumber": "18",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": true
+                },
+                {
+                  "color": "#FF0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Jakub Kiwior",
+                  "playerName": "J. Kiwior",
+                  "playerNumber": "14",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#FF0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Kamil Glik",
+                  "playerName": "K. Glik",
+                  "playerNumber": "15",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#FF0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Matty Cash",
+                  "playerName": "M. Cash",
+                  "playerNumber": "2",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": true
+                }
+              ],
+              [
+                {
+                  "color": "#FF0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Wojciech Szczęsny",
+                  "playerName": "W. Szczęsny",
+                  "playerNumber": "1",
+                  "playerPosition": "Goalkeeper",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ]
+            ]
+          },
           "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png",
           "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/yTS_Piy3M1wUBnqU0n5aAw_96x96.png",
           "hide": true,
@@ -31158,11 +31721,11 @@
           "nameCup": "FIFA World Cup 2022™",
           "nameTeam1": "France",
           "nameTeam2": "Poland",
+          "score1": "3",
+          "score2": "1",
           "stadium": "Al Thumama ",
-          "startTime": "tomorrow, 10:00 AM",
-          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/BedOE9Fucaitlyak_768x432.jpg",
-          "timeYoutube": "2:35",
-          "type": 0,
+          "startTime": "Today",
+          "status": "Full-time",
           "streamingData": [
             {
               "background": "#FFFFFF",
@@ -31200,39 +31763,6 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
-              "description": "Mirror 1 | 480p",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Mirror 2 | 720p",
-              "headers": "Origin: https://nflseasonpass.com;\r\nReferer: https://nflseasonpass.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://mainbb.s3.amazonaws.com/ch1/ch1_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Mirror 3 | 720p",
-              "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://1ahdgay.azureedge.net/live/TSN1/playlist.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
               "description": "Mirror 4 | 480p",
               "headers": "Origin: https://techclips.net;\r\nReferer: https://techclips.net/clip/s1.html;",
               "logo": "HbiakTK",
@@ -31252,7 +31782,10 @@
               "openBrowser": false,
               "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
             }
-          ]
+          ],
+          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/g82CMXU1RBRRKCHP_192x108.jpg",
+          "timeYoutube": "2:35",
+          "type": 0
         },
         {
           "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
@@ -31267,10 +31800,7 @@
           "nameTeam1": "England",
           "nameTeam2": "Senegal",
           "stadium": "Al Bayt ",
-          "startTime": "tomorrow, 2:00 PM",
-          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/xX80zD9hsVp0AlEY_768x432.jpg",
-          "timeYoutube": "2:42",
-          "type": 0,
+          "startTime": "today, 2:00 PM",
           "streamingData": [
             {
               "background": "#FFFFFF",
@@ -31360,7 +31890,10 @@
               "openBrowser": false,
               "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
             }
-          ]
+          ],
+          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/xX80zD9hsVp0AlEY_768x432.jpg",
+          "timeYoutube": "2:42",
+          "type": 0
         },
         {
           "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/by4OltvtZz7taxuQtkiP3A_96x96.png",
@@ -31375,7 +31908,7 @@
           "nameTeam1": "Japan",
           "nameTeam2": "Croatia",
           "stadium": "Al Janoub ",
-          "startTime": "Mon, Dec 5, 10:00 AM",
+          "startTime": "tomorrow, 10:00 AM",
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/WX5h4Bl44camtJiP_768x432.jpg",
           "timeYoutube": "Match preview, duration 1 minute and 40 seconds",
           "type": 0

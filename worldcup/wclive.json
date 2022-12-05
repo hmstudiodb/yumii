@@ -32931,8 +32931,8 @@
           "nameCup": "FIFA World Cup 2022™",
           "nameTeam1": "Japan",
           "nameTeam2": "Croatia",
-          "score1": "1 (1)",
-          "score2": "1 (3)",
+          "score1": "1",
+          "score2": "3",
           "stadium": "Al Janoub ",
           "startTime": "Today",
           "status": "   1-3\nPenalties\nFull-time",
@@ -33597,6 +33597,17 @@
               "nation": "Canada",
               "openBrowser": false,
               "stream": "https://1ahdgay.azureedge.net/live/TSN1/playlist.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Mirror 4 | 480p",
+              "headers": "Origin: https://techclips.net;\r\nReferer: https://techclips.net/clip/s1.html;",
+              "logo": "HbiakTK",
+              "name": "TSN 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://cdn3.reels2watch.com/hls/s1.m3u8"
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/5mOInLZmLrK7u81O_768x432.jpg",

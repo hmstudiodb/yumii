@@ -32940,79 +32940,13 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
-              "description": "480p",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "description": "Highlights",
+              "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
               "logo": "HbiakTK",
-              "name": "TSN 1",
+              "name": "TSN",
               "nation": "Canada",
               "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "720p",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_720p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "240p",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_240p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Mirror 1 | 480p",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Mirror 1 | 720p",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_720p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Mirror 2 | 720p",
-              "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://1ahdgay.azureedge.net/live/TSN1/playlist.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Mirror 3 | 480p",
-              "headers": "Origin: https://techclips.net;\r\nReferer: https://techclips.net/clip/s1.html;",
-              "logo": "HbiakTK",
-              "name": "TSN 1",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://cdn3.reels2watch.com/hls/s1.m3u8"
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/5/42/242331/360p.m3u8"
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/WM1wFIT_cGBcDBl2_192x108.jpg",
@@ -33601,7 +33535,7 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
-              "description": "Mirror 4 | 480p",
+              "description": "Server 4 | 720p",
               "headers": "Origin: https://techclips.net;\r\nReferer: https://techclips.net/clip/s1.html;",
               "logo": "HbiakTK",
               "name": "TSN 1",
@@ -33612,7 +33546,7 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
-              "description": "Mirror 5 | 480p",
+              "description": "Server 5 | 720p",
               "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwctsn05-s1/;",
               "logo": "HbiakTK",
               "name": "TSN 1",
@@ -33696,8 +33630,6 @@
           "matchType": "Quarter-finals",
           "millisecondsUTC": 1670598000000,
           "nameCup": "FIFA World Cup 2022™",
-          "nameTeam1": "Japan",
-          "nameTeam2": "Croatia",
           "stadium": "Education City ",
           "startTime": "Fri, Dec 9, 10:00 AM",
           "type": 0
@@ -33727,8 +33659,6 @@
           "matchType": "Quarter-finals",
           "millisecondsUTC": 1670684400000,
           "nameCup": "FIFA World Cup 2022™",
-          "nameTeam1": "Japan",
-          "nameTeam2": "Croatia",
           "stadium": "Al Thumama ",
           "startTime": "Sat, Dec 10, 10:00 AM",
           "type": 0

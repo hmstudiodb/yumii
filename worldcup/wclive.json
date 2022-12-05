@@ -32343,50 +32343,6 @@
               "nation": "Canada",
               "openBrowser": false,
               "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/4/51/242290/360p.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "720p",
-              "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 4 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://weaksdbvsgdf.azureedge.net/live/TSN4/playlist.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "480p",
-              "headers": "Origin: https://techclips.net;\r\nReferer: https://techclips.net/clip/s1.html;",
-              "logo": "HbiakTK",
-              "name": "TSN 4 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://reels2watch.com/hls/s1.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "720p HD",
-              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwctsn03-s1/?sport=soccer;",
-              "logo": "xeZBWOy",
-              "name": "itv 1",
-              "nation": "United Kingdom",
-              "openBrowser": false,
-              "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Mirror | 720p HD",
-              "headers": "Origin: http://motornews.live;\r\nReferer: http://motornews.live/novo/bite/04-wc-games-s1/;",
-              "logo": "xeZBWOy",
-              "name": "itv 1",
-              "nation": "United Kingdom",
-              "openBrowser": false,
-              "stream": "http://cdn1.cyclingnews.live/abr/abr-stream1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIyIDY6MTQKOjQwCiBQTSZoYXNoX3ZhbHVlPTFoZ3A5RVZnb3NQUW83N0h0VXdEWXc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE5Mi4xNjguMTAwLjE0MCZzdHJtX2xlbj00"
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/JWg0zGU8xb6LluRO_192x108.jpg",

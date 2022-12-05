@@ -33586,6 +33586,17 @@
               "nation": "Canada",
               "openBrowser": false,
               "stream": "https://k41hedlund.s3.amazonaws.com/tsn_720p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Server 3 | 720p",
+              "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://1ahdgay.azureedge.net/live/TSN1/playlist.m3u8"
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/5mOInLZmLrK7u81O_768x432.jpg",

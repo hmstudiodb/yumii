@@ -31761,6 +31761,17 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
+              "description": "Highlights",
+              "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/4/51/242290/360p.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
               "description": "720p",
               "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
               "logo": "HbiakTK",

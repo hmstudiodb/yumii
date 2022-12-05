@@ -33608,6 +33608,39 @@
               "nation": "Canada",
               "openBrowser": false,
               "stream": "https://cdn3.reels2watch.com/hls/s1.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Mirror 4 | 480p",
+              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwctsn05-s1/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://mainbb.s3.amazonaws.com/ch6/ch6_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "720p",
+              "headers": "Origin: http://motornews.live;\r\nReferer: http://motornews.live/novo/bite/05-wc-games-s1/?sport=soccer;",
+              "logo": "xeZBWOy",
+              "name": "itv 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "http://cdn1.cyclingnews.live/abr/abr-stream1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDY6NDYKOjEyCiBQTSZoYXNoX3ZhbHVlPVRyVjNHVk5EWEF2bzNDYU1xZWFmbmc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE5Mi4xNjguMTAwLjE0MCZzdHJtX2xlbj00"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Server 2 | 720p",
+              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwctsn05-s1/;",
+              "logo": "xeZBWOy",
+              "name": "itv 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/5mOInLZmLrK7u81O_768x432.jpg",

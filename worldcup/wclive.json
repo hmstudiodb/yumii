@@ -32350,6 +32350,68 @@
           "type": 0
         },
         {
+          "MATCH_STATS": [
+            {
+              "stats": "Shots",
+              "suffix": "",
+              "team1": 13.0,
+              "team2": 17.0
+            },
+            {
+              "stats": "Shots on target",
+              "suffix": "",
+              "team1": 4.0,
+              "team2": 4.0
+            },
+            {
+              "stats": "Possession",
+              "suffix": "%",
+              "team1": 41.0,
+              "team2": 59.0
+            },
+            {
+              "stats": "Passes",
+              "suffix": "",
+              "team1": 524.0,
+              "team2": 724.0
+            },
+            {
+              "stats": "Pass accuracy",
+              "suffix": "%",
+              "team1": 75.0,
+              "team2": 83.0
+            },
+            {
+              "stats": "Fouls",
+              "suffix": "",
+              "team1": 13.0,
+              "team2": 16.0
+            },
+            {
+              "stats": "Yellow cards",
+              "suffix": "",
+              "team1": 0.0,
+              "team2": 2.0
+            },
+            {
+              "stats": "Red cards",
+              "suffix": "",
+              "team1": 0.0,
+              "team2": 0.0
+            },
+            {
+              "stats": "Offsides",
+              "suffix": "",
+              "team1": 3.0,
+              "team2": 0.0
+            },
+            {
+              "stats": "Corners",
+              "suffix": "",
+              "team1": 8.0,
+              "team2": 5.0
+            }
+          ],
           "SOCCER_LINEUPS": {
             "Manager": [
               {
@@ -32390,7 +32452,7 @@
                 "shirt1": "2",
                 "shirt2": "7",
                 "substitutedIn1": false,
-                "substitutedIn2": false,
+                "substitutedIn2": true,
                 "yellowCard1": false,
                 "yellowCard2": false
               },
@@ -32417,8 +32479,8 @@
                 "redCard2": false,
                 "shirt1": "9",
                 "shirt2": "13",
-                "substitutedIn1": false,
-                "substitutedIn2": false,
+                "substitutedIn1": true,
+                "substitutedIn2": true,
                 "yellowCard1": false,
                 "yellowCard2": false
               },
@@ -32431,8 +32493,8 @@
                 "redCard2": false,
                 "shirt1": "10",
                 "shirt2": "14",
-                "substitutedIn1": false,
-                "substitutedIn2": false,
+                "substitutedIn1": true,
+                "substitutedIn2": true,
                 "yellowCard1": false,
                 "yellowCard2": false
               },
@@ -32445,8 +32507,8 @@
                 "redCard2": false,
                 "shirt1": "17",
                 "shirt2": "15",
-                "substitutedIn1": false,
-                "substitutedIn2": false,
+                "substitutedIn1": true,
+                "substitutedIn2": true,
                 "yellowCard1": false,
                 "yellowCard2": false
               },
@@ -32459,8 +32521,8 @@
                 "redCard2": false,
                 "shirt1": "18",
                 "shirt2": "17",
-                "substitutedIn1": false,
-                "substitutedIn2": false,
+                "substitutedIn1": true,
+                "substitutedIn2": true,
                 "yellowCard1": false,
                 "yellowCard2": false
               },
@@ -32473,8 +32535,8 @@
                 "redCard2": false,
                 "shirt1": "19",
                 "shirt2": "18",
-                "substitutedIn1": false,
-                "substitutedIn2": false,
+                "substitutedIn1": true,
+                "substitutedIn2": true,
                 "yellowCard1": false,
                 "yellowCard2": false
               },
@@ -32678,7 +32740,7 @@
                 },
                 {
                   "color": "#020372",
-                  "goals": 0,
+                  "goals": 1,
                   "ownGoal": false,
                   "playerFullName": "Daizen Maeda",
                   "playerName": "D. Maeda",
@@ -32708,7 +32770,7 @@
               [
                 {
                   "color": "#fb0200",
-                  "goals": 0,
+                  "goals": 1,
                   "ownGoal": false,
                   "playerFullName": "Ivan Perišić",
                   "playerName": "I. Perišić",
@@ -32758,7 +32820,7 @@
                   "redCard": false,
                   "substitutedOut": false,
                   "width": 33.333332,
-                  "yellowCard": false
+                  "yellowCard": true
                 },
                 {
                   "color": "#fb0200",
@@ -32799,7 +32861,7 @@
                   "redCard": false,
                   "substitutedOut": false,
                   "width": 25.0,
-                  "yellowCard": false
+                  "yellowCard": true
                 },
                 {
                   "color": "#fb0200",
@@ -32862,15 +32924,18 @@
           "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_96x96.png",
           "hide": true,
           "id": "-NHAVeJkLCcWO9SRR8pb",
-          "isLive": true,
+          "isLive": false,
           "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/xDLSWjzwxkSQs8qNRj9W9g?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
           "matchType": "Round of 16",
           "millisecondsUTC": 1670252400000,
           "nameCup": "FIFA World Cup 2022™",
           "nameTeam1": "Japan",
           "nameTeam2": "Croatia",
+          "score1": "1 (1)",
+          "score2": "1 (3)",
           "stadium": "Al Janoub ",
-          "startTime": "today, 10:00 AM",
+          "startTime": "Today",
+          "status": "   1-3\nPenalties\nFull-time",
           "streamingData": [
             {
               "background": "#FFFFFF",
@@ -32950,11 +33015,509 @@
               "stream": "https://cdn3.reels2watch.com/hls/s1.m3u8"
             }
           ],
-          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/Wlcwbkm77APxtLnd_768x432.jpg",
+          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/WM1wFIT_cGBcDBl2_192x108.jpg",
           "timeYoutube": "2:24",
           "type": 0
         },
         {
+          "SOCCER_LINEUPS": {
+            "Manager": [
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Tite",
+                "player2": "P. Bento",
+                "redCard1": false,
+                "redCard2": false,
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              }
+            ],
+            "Substitutes": [
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Fred",
+                "player2": "Yoon Jong-gyu",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "8",
+                "shirt2": "2",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Weverton Pereira da Silva",
+                "player2": "Paik Seung-ho",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "12",
+                "shirt2": "8",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Dani Alves",
+                "player2": "Song Bumkeun",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "13",
+                "shirt2": "12",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Fabinho",
+                "player2": "Son Jun-ho",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "15",
+                "shirt2": "13",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Bruno Guimarães",
+                "player2": "Hong Chul",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "17",
+                "shirt2": "14",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Antony",
+                "player2": "Hwang Ui-jo",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "19",
+                "shirt2": "16",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Rodrygo",
+                "player2": "Na Sang-ho",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "21",
+                "shirt2": "17",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Éverton Ribeiro",
+                "player2": "Lee Kang-in",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "22",
+                "shirt2": "18",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Ederson",
+                "player2": "Kwon Kyung-won",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "23",
+                "shirt2": "20",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Gleison Bremer",
+                "player2": "Jo Hyeon-woo",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "24",
+                "shirt2": "21",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Pedro",
+                "player2": "Kwon Chang-hoon",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "25",
+                "shirt2": "22",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Gabriel Martinelli",
+                "player2": "Kim Tae-hwan",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "26",
+                "shirt2": "23",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              }
+            ],
+            "formationTeam1": "4-2-3-1",
+            "formationTeam2": "4-2-3-1",
+            "lineupTeam1": [
+              [
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Alisson Becker",
+                  "playerName": "Alisson",
+                  "playerNumber": "1",
+                  "playerPosition": "Goalkeeper",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Éder Militão",
+                  "playerName": "É. Militão",
+                  "playerNumber": "14",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Marquinhos",
+                  "playerName": "Marquinhos",
+                  "playerNumber": "4",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Thiago Silva",
+                  "playerName": "T. Silva",
+                  "playerNumber": "3",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Danilo",
+                  "playerName": "Danilo",
+                  "playerNumber": "2",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Casemiro",
+                  "playerName": "Casemiro",
+                  "playerNumber": "5",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 50.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Lucas Paquetá",
+                  "playerName": "Lucas Paquetá",
+                  "playerNumber": "7",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 50.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Raphinha",
+                  "playerName": "Raphinha",
+                  "playerNumber": "11",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Neymar",
+                  "playerName": "Neymar",
+                  "playerNumber": "10",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Vini Jr.",
+                  "playerName": "V. Júnior",
+                  "playerNumber": "20",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#008100",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Richarlison",
+                  "playerName": "Richarlison",
+                  "playerNumber": "9",
+                  "playerPosition": "Striker",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ]
+            ],
+            "lineupTeam2": [
+              [
+                {
+                  "color": "#F9041D",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Cho Gue-sung",
+                  "playerName": "G.S. Cho",
+                  "playerNumber": "9",
+                  "playerPosition": "Striker",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#F9041D",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Son Heung-min",
+                  "playerName": "H. Son",
+                  "playerNumber": "7",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#F9041D",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Lee Jae-sung",
+                  "playerName": "J. Lee",
+                  "playerNumber": "10",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#F9041D",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Hwang Hee-chan",
+                  "playerName": "H. Hwang",
+                  "playerNumber": "11",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#F9041D",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Jung Woo-young",
+                  "playerName": "W. Jung",
+                  "playerNumber": "5",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 50.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#F9041D",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Hwang In-beom",
+                  "playerName": "I. HWANG",
+                  "playerNumber": "6",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 50.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#F9041D",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Kim Jin-su",
+                  "playerName": "J. Kim",
+                  "playerNumber": "3",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#F9041D",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Kim Young-gwon",
+                  "playerName": "Y. Kim",
+                  "playerNumber": "19",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#F9041D",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Kim Min-jae",
+                  "playerName": "M. KIM",
+                  "playerNumber": "4",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#F9041D",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Kim Moon-hwan",
+                  "playerName": "M.H. Kim",
+                  "playerNumber": "15",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#F9041D",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Kim Seung-gyu",
+                  "playerName": "S. Kim",
+                  "playerNumber": "1",
+                  "playerPosition": "Goalkeeper",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ]
+            ]
+          },
           "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_96x96.png",
           "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/Uu5pwNmMHGd5bCooKrS3Lw_96x96.png",
           "hide": true,
@@ -32968,9 +33531,6 @@
           "nameTeam2": "South Korea",
           "stadium": "Stadium 974 - Ras Abu Aboud",
           "startTime": "today, 2:00 PM",
-          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/5mOInLZmLrK7u81O_768x432.jpg",
-          "timeYoutube": "2:43",
-          "type": 0,
           "streamingData": [
             {
               "background": "#FFFFFF",
@@ -33027,7 +33587,10 @@
               "openBrowser": false,
               "stream": "https://k41hedlund.s3.amazonaws.com/tsn_720p30.m3u8"
             }
-          ]
+          ],
+          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/5mOInLZmLrK7u81O_768x432.jpg",
+          "timeYoutube": "2:43",
+          "type": 0
         },
         {
           "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/I3gt2Ew39ux3GGdZ-4JE3g_96x96.png",
@@ -33042,7 +33605,7 @@
           "nameTeam1": "Morocco",
           "nameTeam2": "Spain",
           "stadium": "Education City ",
-          "startTime": "Tue, Dec 6, 10:00 AM",
+          "startTime": "tomorrow, 10:00 AM",
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/2bNhUgh3Bvfin4rg_768x432.jpg",
           "timeYoutube": "Match preview, duration 1 minute and 51 seconds",
           "type": 0

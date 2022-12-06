@@ -6,7 +6,7 @@
         "is"
       ],
       "am_in": "ca-app-pub-4783400630504930/6731315953",
-      "bracket_url": "https://raw.githubusercontent.com/sportslivescore/euro2020/master/lineup/worldcup2022/14.png",
+      "bracket_url": "https://raw.githubusercontent.com/sportslivescore/euro2020/master/lineup/worldcup2022/15.png",
       "interval": 60000,
       "is_id": "179b194ad",
       "livescore": [
@@ -33469,6 +33469,40 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
+              "description": "Highlights",
+              "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/5/51/242386/360p.m3u8"
+            }
+          ],
+          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/5mOInLZmLrK7u81O_768x432.jpg",
+          "timeYoutube": "2:43",
+          "type": 0
+        },
+        {
+          "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/I3gt2Ew39ux3GGdZ-4JE3g_96x96.png",
+          "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/5hLkf7KFHhmpaiOJQv8LmA_96x96.png",
+          "hide": true,
+          "id": "-NHAVeJlyQSAScpZrlik",
+          "isLive": false,
+          "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/_XGynqEeRk-dZPbPr32LwQ?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
+          "matchType": "Round of 16",
+          "millisecondsUTC": 1670338800000,
+          "nameCup": "FIFA World Cup 2022™",
+          "nameTeam1": "Morocco",
+          "nameTeam2": "Spain",
+          "stadium": "Education City ",
+          "startTime": "tomorrow, 10:00 AM",
+          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/2bNhUgh3Bvfin4rg_768x432.jpg",
+          "timeYoutube": "Match preview, duration 1 minute and 51 seconds",
+          "type": 0,
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
               "description": "480p",
               "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
               "logo": "HbiakTK",
@@ -33520,84 +33554,8 @@
               "nation": "Canada",
               "openBrowser": false,
               "stream": "https://k41hedlund.s3.amazonaws.com/tsn_720p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Server 3 | 720p",
-              "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://1ahdgay.azureedge.net/live/TSN1/playlist.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Server 4 | 720p",
-              "headers": "Origin: https://techclips.net;\r\nReferer: https://techclips.net/clip/s1.html;",
-              "logo": "HbiakTK",
-              "name": "TSN 1",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://cdn3.reels2watch.com/hls/s1.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Server 5 | 720p",
-              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwctsn05-s1/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://mainbb.s3.amazonaws.com/ch6/ch6_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "720p",
-              "headers": "Origin: http://motornews.live;\r\nReferer: http://motornews.live/novo/bite/05-wc-games-s1/?sport=soccer;",
-              "logo": "xeZBWOy",
-              "name": "itv 1",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "http://cdn1.cyclingnews.live/abr/abr-stream1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDIyIDY6NDYKOjEyCiBQTSZoYXNoX3ZhbHVlPVRyVjNHVk5EWEF2bzNDYU1xZWFmbmc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE5Mi4xNjguMTAwLjE0MCZzdHJtX2xlbj00"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Server 2 | 720p",
-              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/daily/footy/fwctsn05-s1/;",
-              "logo": "xeZBWOy",
-              "name": "itv 1",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
             }
-          ],
-          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/5mOInLZmLrK7u81O_768x432.jpg",
-          "timeYoutube": "2:43",
-          "type": 0
-        },
-        {
-          "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/I3gt2Ew39ux3GGdZ-4JE3g_96x96.png",
-          "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/5hLkf7KFHhmpaiOJQv8LmA_96x96.png",
-          "hide": true,
-          "id": "-NHAVeJlyQSAScpZrlik",
-          "isLive": false,
-          "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/_XGynqEeRk-dZPbPr32LwQ?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
-          "matchType": "Round of 16",
-          "millisecondsUTC": 1670338800000,
-          "nameCup": "FIFA World Cup 2022™",
-          "nameTeam1": "Morocco",
-          "nameTeam2": "Spain",
-          "stadium": "Education City ",
-          "startTime": "tomorrow, 10:00 AM",
-          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/2bNhUgh3Bvfin4rg_768x432.jpg",
-          "timeYoutube": "Match preview, duration 1 minute and 51 seconds",
-          "type": 0
+            ]
         },
         {
           "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_96x96.png",

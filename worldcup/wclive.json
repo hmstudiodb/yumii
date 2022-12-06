@@ -33683,6 +33683,50 @@
               "nation": "Canada",
               "openBrowser": false,
               "stream": "https://k41hedlund.s3.amazonaws.com/tsn_720p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Server 3 | 720p",
+              "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://1ahdgay.azureedge.net/live/TSN1/playlist.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Server 4 | 240p",
+              "headers": "Origin: https://nflseasonpass.com;\r\nReferer: https://nflseasonpass.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://mainbb.s3.amazonaws.com/ch7/ch7_240p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Server 4 | 480p",
+              "headers": "origin: https://nflseasonpass.com;\r\nreferer: https://nflseasonpass.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://mainbb.s3.amazonaws.com/ch6/ch6_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "720p",
+              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/;",
+              "logo": "xeZBWOy",
+              "name": "itv 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
             }
           ]
         },

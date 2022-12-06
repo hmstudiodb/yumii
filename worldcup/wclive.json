@@ -33696,28 +33696,6 @@
             {
               "background": "#FFFFFF",
               "dateTime": 0,
-              "description": "Server 2 | 480p",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Server 2 | 720p",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1 HD",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_720p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
               "description": "Server 3 | 720p",
               "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
               "logo": "HbiakTK",
@@ -33758,17 +33736,6 @@
               "nation": "Canada",
               "openBrowser": false,
               "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "Server 2| 720p",
-              "headers": "Origin: http://motornews.live;\r\nReferer: http://motornews.live/novo/bite/06-wc-games-s1/?sport=soccer;",
-              "logo": "xeZBWOy",
-              "name": "itv 1",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "http://cdn2.cyclingnews.live/abr/abr-stream1/hls/stream1_720p/playlist.m3u8?nimblesessionid=15168366&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIyIDY6MDYKOjU0CiBQTSZoYXNoX3ZhbHVlPWZkeEZZSkNWcTZaQTdrbTNCQnN0OEE9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE5Mi4xNjguMTAwLjE0MCZzdHJtX2xlbj00"
             }
           ]
         },
@@ -33797,7 +33764,64 @@
           "startTime": "Fri, Dec 9, 10:00 AM",
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/3XYgEAfwkBei4vKx_768x432.jpg",
           "timeYoutube": "Match preview, duration 1 minute and 32 seconds",
-          "type": 0
+          "type": 0,
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "480p",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "720p",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_720p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "240p",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_240p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Server 2 | 480p",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Server 2 | 720p",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_720p30.m3u8"
+            }
+          ]
         },
         {
           "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",

@@ -6,7 +6,7 @@
         "is"
       ],
       "am_in": "ca-app-pub-4783400630504930/6731315953",
-      "bracket_url": "https://raw.githubusercontent.com/sportslivescore/euro2020/master/lineup/worldcup2022/15.png",
+      "bracket_url": "https://raw.githubusercontent.com/sportslivescore/euro2020/master/lineup/worldcup2022/16.png",
       "interval": 60000,
       "is_id": "179b194ad",
       "livescore": [
@@ -34734,6 +34734,28 @@
               "nation": "Canada",
               "openBrowser": false,
               "stream": "https://k41hedlund.s3.amazonaws.com/tsncopy_240p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Server 2 | 480p",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "Server 2 | 720p",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://k41hedlund.s3.amazonaws.com/tsn_720p30.m3u8"
             },
             {
               "background": "#FFFFFF",

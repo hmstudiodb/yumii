@@ -6,7 +6,7 @@
         "is"
       ],
       "am_in": "ca-app-pub-4783400630504930/6731315953",
-      "bracket_url": "https://raw.githubusercontent.com/sportslivescore/euro2020/master/lineup/worldcup2022/19.png",
+      "bracket_url": "https://raw.githubusercontent.com/sportslivescore/euro2020/master/lineup/worldcup2022/20.png",
       "interval": 60000,
       "is_id": "179b194ad",
       "livescore": [
@@ -35486,7 +35486,7 @@
             {
               "stats": "Passes",
               "suffix": "",
-              "team1": 692.0,
+              "team1": 694.0,
               "team2": 684.0
             },
             {
@@ -36082,6 +36082,68 @@
           "type": 0
         },
         {
+          "MATCH_STATS": [
+            {
+              "stats": "Shots",
+              "suffix": "",
+              "team1": 6.0,
+              "team2": 14.0
+            },
+            {
+              "stats": "Shots on target",
+              "suffix": "",
+              "team1": 2.0,
+              "team2": 5.0
+            },
+            {
+              "stats": "Possession",
+              "suffix": "%",
+              "team1": 52.0,
+              "team2": 48.0
+            },
+            {
+              "stats": "Passes",
+              "suffix": "",
+              "team1": 632.0,
+              "team2": 602.0
+            },
+            {
+              "stats": "Pass accuracy",
+              "suffix": "%",
+              "team1": 83.0,
+              "team2": 82.0
+            },
+            {
+              "stats": "Fouls",
+              "suffix": "",
+              "team1": 30.0,
+              "team2": 18.0
+            },
+            {
+              "stats": "Yellow cards",
+              "suffix": "",
+              "team1": 7.0,
+              "team2": 8.0
+            },
+            {
+              "stats": "Red cards",
+              "suffix": "",
+              "team1": 0.0,
+              "team2": 0.0
+            },
+            {
+              "stats": "Offsides",
+              "suffix": "",
+              "team1": 1.0,
+              "team2": 2.0
+            },
+            {
+              "stats": "Corners",
+              "suffix": "",
+              "team1": 2.0,
+              "team2": 8.0
+            }
+          ],
           "SOCCER_LINEUPS": {
             "Manager": [
               {
@@ -36136,7 +36198,7 @@
                 "shirt1": "6",
                 "shirt2": "3",
                 "substitutedIn1": false,
-                "substitutedIn2": false,
+                "substitutedIn2": true,
                 "yellowCard1": false,
                 "yellowCard2": false
               },
@@ -36149,8 +36211,8 @@
                 "redCard2": false,
                 "shirt1": "9",
                 "shirt2": "4",
-                "substitutedIn1": false,
-                "substitutedIn2": false,
+                "substitutedIn1": true,
+                "substitutedIn2": true,
                 "yellowCard1": false,
                 "yellowCard2": false
               },
@@ -36163,8 +36225,8 @@
                 "redCard2": false,
                 "shirt1": "11",
                 "shirt2": "5",
-                "substitutedIn1": false,
-                "substitutedIn2": false,
+                "substitutedIn1": true,
+                "substitutedIn2": true,
                 "yellowCard1": false,
                 "yellowCard2": false
               },
@@ -36177,8 +36239,8 @@
                 "redCard2": false,
                 "shirt1": "12",
                 "shirt2": "6",
-                "substitutedIn1": false,
-                "substitutedIn2": false,
+                "substitutedIn1": true,
+                "substitutedIn2": true,
                 "yellowCard1": false,
                 "yellowCard2": false
               },
@@ -36192,7 +36254,7 @@
                 "shirt1": "13",
                 "shirt2": "11",
                 "substitutedIn1": false,
-                "substitutedIn2": false,
+                "substitutedIn2": true,
                 "yellowCard1": false,
                 "yellowCard2": false
               },
@@ -36247,7 +36309,7 @@
                 "redCard2": false,
                 "shirt1": "19",
                 "shirt2": "16",
-                "substitutedIn1": false,
+                "substitutedIn1": true,
                 "substitutedIn2": false,
                 "yellowCard1": false,
                 "yellowCard2": false
@@ -36261,7 +36323,7 @@
                 "redCard2": false,
                 "shirt1": "20",
                 "shirt2": "17",
-                "substitutedIn1": false,
+                "substitutedIn1": true,
                 "substitutedIn2": false,
                 "yellowCard1": false,
                 "yellowCard2": false
@@ -36304,7 +36366,7 @@
                 "shirt1": "26",
                 "shirt2": "22",
                 "substitutedIn1": false,
-                "substitutedIn2": false,
+                "substitutedIn2": true,
                 "yellowCard1": false,
                 "yellowCard2": false
               }
@@ -36339,7 +36401,7 @@
                   "redCard": false,
                   "substitutedOut": false,
                   "width": 33.333332,
-                  "yellowCard": false
+                  "yellowCard": true
                 },
                 {
                   "color": "#fc6500",
@@ -36380,7 +36442,7 @@
                   "redCard": false,
                   "substitutedOut": false,
                   "width": 25.0,
-                  "yellowCard": false
+                  "yellowCard": true
                 },
                 {
                   "color": "#fc6500",
@@ -36449,7 +36511,7 @@
                   "redCard": false,
                   "substitutedOut": false,
                   "width": 50.0,
-                  "yellowCard": false
+                  "yellowCard": true
                 },
                 {
                   "color": "#fc6500",
@@ -36462,7 +36524,7 @@
                   "redCard": false,
                   "substitutedOut": false,
                   "width": 50.0,
-                  "yellowCard": false
+                  "yellowCard": true
                 }
               ]
             ],
@@ -36483,7 +36545,7 @@
                 },
                 {
                   "color": "#4285F4",
-                  "goals": 0,
+                  "goals": 1,
                   "ownGoal": false,
                   "playerFullName": "Lionel Messi",
                   "playerName": "L. Messi",
@@ -36492,7 +36554,7 @@
                   "redCard": false,
                   "substitutedOut": false,
                   "width": 50.0,
-                  "yellowCard": false
+                  "yellowCard": true
                 }
               ],
               [
@@ -36548,7 +36610,7 @@
                   "redCard": false,
                   "substitutedOut": false,
                   "width": 20.0,
-                  "yellowCard": false
+                  "yellowCard": true
                 },
                 {
                   "color": "#4285F4",
@@ -36561,7 +36623,7 @@
                   "redCard": false,
                   "substitutedOut": false,
                   "width": 20.0,
-                  "yellowCard": false
+                  "yellowCard": true
                 },
                 {
                   "color": "#4285F4",
@@ -36574,7 +36636,7 @@
                   "redCard": false,
                   "substitutedOut": false,
                   "width": 20.0,
-                  "yellowCard": false
+                  "yellowCard": true
                 },
                 {
                   "color": "#4285F4",
@@ -36587,11 +36649,11 @@
                   "redCard": false,
                   "substitutedOut": false,
                   "width": 20.0,
-                  "yellowCard": false
+                  "yellowCard": true
                 },
                 {
                   "color": "#4285F4",
-                  "goals": 0,
+                  "goals": 1,
                   "ownGoal": false,
                   "playerFullName": "Nahuel Molina",
                   "playerName": "N. Molina",
@@ -36624,15 +36686,34 @@
           "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_96x96.png",
           "hide": true,
           "id": "-NHAVeJoamwNccIzuShi",
-          "isLive": true,
+          "isLive": false,
           "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/4IIKUF29txzgfEjWvvQixS?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
+          "listScore1": [
+            {
+              "minute": "83'90'",
+              "playerName": "Wout Weghorst"
+            }
+          ],
+          "listScore2": [
+            {
+              "minute": "35'",
+              "playerName": "Nahuel Molina"
+            },
+            {
+              "minute": "73'",
+              "playerName": "Lionel Messi"
+            }
+          ],
           "matchType": "Quarter-finals",
           "millisecondsUTC": 1670612400000,
           "nameCup": "FIFA World Cup 2022™",
           "nameTeam1": "Netherlands",
           "nameTeam2": "Argentina",
+          "score1": "2",
+          "score2": "2",
           "stadium": "Lusail ",
-          "startTime": "today, 2:00 PM",
+          "startTime": "Today",
+          "status": "   3-4\nPenalties\nFull-time",
           "streamingData": [
             {
               "background": "#FFFFFF",
@@ -36683,7 +36764,7 @@
               "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
             }
           ],
-          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/HrhizymXnyoCNQkm_768x432.jpg",
+          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/BwYqlux8H0lKTJ7N_192x108.jpg",
           "timeYoutube": "2:49",
           "type": 0
         },
@@ -36718,7 +36799,7 @@
           "nameTeam1": "England",
           "nameTeam2": "France",
           "stadium": "Al Bayt ",
-          "startTime": "Sun, Dec 11, 02:00",
+          "startTime": "tomorrow, 2:00 PM",
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/5XmmXATNpWC-WIUc_768x432.jpg",
           "timeYoutube": "Match preview, duration 1 minute and 41 seconds",
           "type": 0

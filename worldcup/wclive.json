@@ -35559,18 +35559,6 @@
             },
             {
               "background": "#FFFFFF",
-              "dateTime": 1670596275087,
-              "description": "720p Streams",
-              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/;",
-              "logo": "E9IuO1X",
-              "name": "BBC Sports",
-              "nation": "Cannada",
-              "nationCode": "Can",
-              "openBrowser": false,
-              "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
               "dateTime": 1670596275088,
               "description": "Server 3 | 480p",
               "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
@@ -35580,6 +35568,18 @@
               "nationCode": "Can",
               "openBrowser": false,
               "stream": "https://wetrasamma.azureedge.net/live/TSN1/playlist.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 1670596275087,
+              "description": "720p Streams",
+              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/;",
+              "logo": "E9IuO1X",
+              "name": "BBC Sports",
+              "nation": "Cannada",
+              "nationCode": "Can",
+              "openBrowser": false,
+              "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/0tM7JvQDzjzm9wo__768x432.jpg",

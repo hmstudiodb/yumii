@@ -35536,7 +35536,7 @@
             {
               "background": "#FFFFFF",
               "dateTime": 1670596275087,
-              "description": "Server 2 | 720p",
+              "description": "Server 3 | 720p",
               "headers": "origin: https://nflseasonpass.com;\r\nreferer: https://nflseasonpass.com/;",
               "logo": "HbiakTK",
               "name": "TSN 1",
@@ -35548,7 +35548,7 @@
             {
               "background": "#FFFFFF",
               "dateTime": 1670596275087,
-              "description": "Server 2 | 480p",
+              "description": "Server 3 | 480p",
               "headers": "origin: https://nflseasonpass.com;\r\nreferer: https://nflseasonpass.com/;",
               "logo": "HbiakTK",
               "name": "TSN 1",
@@ -35560,7 +35560,7 @@
             {
               "background": "#FFFFFF",
               "dateTime": 1670596275088,
-              "description": "Server 3 | 480p",
+              "description": "Server 4 | 480p",
               "headers": "origin: https://weakstreams.com;\r\nreferer: https://weakstreams.com/;",
               "logo": "HbiakTK",
               "name": "TSN 1",

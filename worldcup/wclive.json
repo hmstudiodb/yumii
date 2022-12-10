@@ -36062,7 +36062,7 @@
           "score1": "1",
           "score2": "1",
           "stadium": "Education City ",
-          "startTime": "Today",
+          "startTime": "Yesterday",
           "status": "   4-2\nPenalties\nFull-time",
           "streamingData": [
             {
@@ -36104,7 +36104,7 @@
             {
               "stats": "Passes",
               "suffix": "",
-              "team1": 632.0,
+              "team1": 634.0,
               "team2": 602.0
             },
             {
@@ -36122,13 +36122,13 @@
             {
               "stats": "Yellow cards",
               "suffix": "",
-              "team1": 7.0,
+              "team1": 6.0,
               "team2": 8.0
             },
             {
               "stats": "Red cards",
               "suffix": "",
-              "team1": 0.0,
+              "team1": 1.0,
               "team2": 0.0
             },
             {
@@ -36442,7 +36442,7 @@
                   "redCard": false,
                   "substitutedOut": false,
                   "width": 25.0,
-                  "yellowCard": true
+                  "yellowCard": false
                 },
                 {
                   "color": "#fc6500",
@@ -36504,9 +36504,9 @@
                   "color": "#fc6500",
                   "goals": 0,
                   "ownGoal": false,
-                  "playerFullName": "Memphis Depay",
-                  "playerName": "M. Depay",
-                  "playerNumber": "10",
+                  "playerFullName": "Steven Bergwijn",
+                  "playerName": "S. Bergwijn",
+                  "playerNumber": "7",
                   "playerPosition": "Striker",
                   "redCard": false,
                   "substitutedOut": false,
@@ -36517,9 +36517,9 @@
                   "color": "#fc6500",
                   "goals": 0,
                   "ownGoal": false,
-                  "playerFullName": "Steven Bergwijn",
-                  "playerName": "S. Bergwijn",
-                  "playerNumber": "7",
+                  "playerFullName": "Memphis Depay",
+                  "playerName": "M. Depay",
+                  "playerNumber": "10",
                   "playerPosition": "Striker",
                   "redCard": false,
                   "substitutedOut": false,
@@ -36575,8 +36575,8 @@
                   "color": "#4285F4",
                   "goals": 0,
                   "ownGoal": false,
-                  "playerFullName": "Enzo Fernández",
-                  "playerName": "E. Fernández",
+                  "playerFullName": "Enzo Jeremías Fernández",
+                  "playerName": "E. J. Fernández",
                   "playerNumber": "24",
                   "playerPosition": "Midfielder",
                   "redCard": false,
@@ -36687,7 +36687,7 @@
           "hide": true,
           "id": "-NHAVeJoamwNccIzuShi",
           "isLive": false,
-          "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/4IIKUF29txzgfEjWvvQixS?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
+          "linkYoutube": "https://www.fifa.com/fifaplus/watch/nWCddiqq2AT50q3nF0CHZ",
           "listScore1": [
             {
               "minute": "83'90'",
@@ -36712,7 +36712,7 @@
           "score1": "2",
           "score2": "2",
           "stadium": "Lusail ",
-          "startTime": "Today",
+          "startTime": "Yesterday",
           "status": "   3-4\nPenalties\nFull-time",
           "streamingData": [
             {
@@ -36728,24 +36728,532 @@
               "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/9/51/242609/360p.m3u8"
             }
           ],
-          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/BwYqlux8H0lKTJ7N_192x108.jpg",
-          "timeYoutube": "2:49",
+          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/ookcbDCT4ZcTQR7L_192x108.jpg",
+          "timeYoutube": "2:00",
           "type": 0
         },
         {
+          "SOCCER_LINEUPS": {
+            "Manager": [
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "W. Regragui",
+                "player2": "F. Santos",
+                "redCard1": false,
+                "redCard2": false,
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              }
+            ],
+            "Substitutes": [
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Abderrazak Hamdallah",
+                "player2": "Rui Patrício",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "9",
+                "shirt2": "1",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Anass Zaroury",
+                "player2": "João Palhinha",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "10",
+                "shirt2": "6",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Abdelhamid Sabiri",
+                "player2": "Cristiano Ronaldo",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "11",
+                "shirt2": "7",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Munir Mohand Mohamedi",
+                "player2": "André Silva",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "12",
+                "shirt2": "9",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Ilias Chair",
+                "player2": "José Sá",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "13",
+                "shirt2": "12",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Zakaria Aboukhlal",
+                "player2": "William Carvalho",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "14",
+                "shirt2": "14",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Abde Ezzalzouli",
+                "player2": "Rafael Leão",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "16",
+                "shirt2": "15",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Achraf Dari",
+                "player2": "Vitinha",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "20",
+                "shirt2": "16",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Walid Cheddira",
+                "player2": "João Mário",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "21",
+                "shirt2": "17",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Ahmed Reda Tagnaouti",
+                "player2": "João Cancelo",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "22",
+                "shirt2": "20",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Bilal El Khannouss",
+                "player2": "Ricardo Horta",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "23",
+                "shirt2": "21",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Badr Benoun",
+                "player2": "Matheus Nunes",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "24",
+                "shirt2": "23",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              },
+              {
+                "goals1": 0,
+                "goals2": 0,
+                "player1": "Yahya Jabrane",
+                "player2": "António Silva",
+                "redCard1": false,
+                "redCard2": false,
+                "shirt1": "26",
+                "shirt2": "24",
+                "substitutedIn1": false,
+                "substitutedIn2": false,
+                "yellowCard1": false,
+                "yellowCard2": false
+              }
+            ],
+            "formationTeam1": "4-3-3",
+            "formationTeam2": "4-3-3",
+            "lineupTeam1": [
+              [
+                {
+                  "color": "#FF0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Yassine Bounou",
+                  "playerName": "Bono",
+                  "playerNumber": "1",
+                  "playerPosition": "Goalkeeper",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#FF0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Achraf Hakimi",
+                  "playerName": "A. Hakimi",
+                  "playerNumber": "2",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#FF0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Jawad El Yamiq",
+                  "playerName": "J. Yamiq",
+                  "playerNumber": "18",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#FF0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Romain Saïss",
+                  "playerName": "R. Saïss",
+                  "playerNumber": "6",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#FF0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Yahia Attiyat Allah",
+                  "playerName": "Y. A. Allah",
+                  "playerNumber": "25",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#FF0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Azzedine Ounahi",
+                  "playerName": "A. Ounahi",
+                  "playerNumber": "8",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#FF0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Sofyan Amrabat",
+                  "playerName": "S. Amrabat",
+                  "playerNumber": "4",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#FF0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Selim Amallah",
+                  "playerName": "S. Amallah",
+                  "playerNumber": "15",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#FF0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Hakim Ziyech",
+                  "playerName": "H. Ziyech",
+                  "playerNumber": "7",
+                  "playerPosition": "Striker",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#FF0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Youssef En-Nesyri",
+                  "playerName": "Y. En-Nesyri",
+                  "playerNumber": "19",
+                  "playerPosition": "Striker",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#FF0000",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Sofiane Boufal",
+                  "playerName": "S. Boufal",
+                  "playerNumber": "17",
+                  "playerPosition": "Striker",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                }
+              ]
+            ],
+            "lineupTeam2": [
+              [
+                {
+                  "color": "#670e30",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "João Félix",
+                  "playerName": "J. Félix",
+                  "playerNumber": "11",
+                  "playerPosition": "Striker",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#670e30",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Gonçalo Ramos",
+                  "playerName": "G. Ramos",
+                  "playerNumber": "26",
+                  "playerPosition": "Striker",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#670e30",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Bruno Fernandes",
+                  "playerName": "B. Fernandes",
+                  "playerNumber": "8",
+                  "playerPosition": "Striker",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#670e30",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Otávio",
+                  "playerName": "Otávio",
+                  "playerNumber": "25",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#670e30",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Rúben Neves",
+                  "playerName": "R. Neves",
+                  "playerNumber": "18",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#670e30",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Bernardo Silva",
+                  "playerName": "B. Silva",
+                  "playerNumber": "10",
+                  "playerPosition": "Midfielder",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 33.333332,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#670e30",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Raphaël Guerreiro",
+                  "playerName": "R. Guerreiro",
+                  "playerNumber": "5",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#670e30",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Rúben Dias",
+                  "playerName": "R. Dias",
+                  "playerNumber": "4",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#670e30",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Pepe",
+                  "playerName": "Pepe",
+                  "playerNumber": "3",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                },
+                {
+                  "color": "#670e30",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Diogo Dalot",
+                  "playerName": "D. Dalot",
+                  "playerNumber": "2",
+                  "playerPosition": "Defender",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 25.0,
+                  "yellowCard": false
+                }
+              ],
+              [
+                {
+                  "color": "#670e30",
+                  "goals": 0,
+                  "ownGoal": false,
+                  "playerFullName": "Diogo Costa",
+                  "playerName": "D. Costa",
+                  "playerNumber": "22",
+                  "playerPosition": "Goalkeeper",
+                  "redCard": false,
+                  "substitutedOut": false,
+                  "width": 100.0,
+                  "yellowCard": false
+                }
+              ]
+            ]
+          },
           "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/I3gt2Ew39ux3GGdZ-4JE3g_96x96.png",
           "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_96x96.png",
           "hide": true,
           "id": "-NHAVeJpKu6Pqati2muG",
-          "isLive": true,
-          "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/7tCuNElC5iK81UhoR5OwOB?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
+          "isLive": false,
+          "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/jaUk6LywLkWaDZYZfH0fOw?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
           "matchType": "Quarter-finals",
           "millisecondsUTC": 1670684400000,
           "nameCup": "FIFA World Cup 2022™",
           "nameTeam1": "Morocco",
           "nameTeam2": "Portugal",
           "stadium": "Al Thumama ",
-          "startTime": "tomorrow, 10:00 AM",
+          "startTime": "today, 10:00 AM",
           "streamingData": [
             {
               "background": "#FFFFFF",
@@ -36830,8 +37338,8 @@
               "stream": "https://llyinarenata238.s3-accelerate.amazonaws.com/cool_240p30.m3u8"
             }
           ],
-          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/2QMtqPbKePMgnram_768x432.jpg",
-          "timeYoutube": "Match preview, duration 1 minute and 51 seconds",
+          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/jxyvaCqdK8dTN7uY_768x432.jpg",
+          "timeYoutube": "2:33",
           "type": 0
         },
         {
@@ -36840,16 +37348,16 @@
           "hide": true,
           "id": "-NHAVeJpKu6Pqati2muH",
           "isLive": false,
-          "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/SPNqCc_PKEGvJKnNp0OjVQ?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
+          "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/703eVxhsKyUilORWahMw3P?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
           "matchType": "Quarter-finals",
           "millisecondsUTC": 1670698800000,
           "nameCup": "FIFA World Cup 2022™",
           "nameTeam1": "England",
           "nameTeam2": "France",
           "stadium": "Al Bayt ",
-          "startTime": "tomorrow, 2:00 PM",
-          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/5XmmXATNpWC-WIUc_768x432.jpg",
-          "timeYoutube": "Match preview, duration 1 minute and 41 seconds",
+          "startTime": "today, 2:00 PM",
+          "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/kO2iAzFOttL39MYK_768x432.jpg",
+          "timeYoutube": "2:38",
           "type": 0
         },
         {

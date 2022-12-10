@@ -36737,7 +36737,7 @@
           "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_96x96.png",
           "hide": true,
           "id": "-NHAVeJpKu6Pqati2muG",
-          "isLive": false,
+          "isLive": true,
           "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/7tCuNElC5iK81UhoR5OwOB?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
           "matchType": "Quarter-finals",
           "millisecondsUTC": 1670684400000,
@@ -36748,7 +36748,31 @@
           "startTime": "tomorrow, 10:00 AM",
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/2QMtqPbKePMgnram_768x432.jpg",
           "timeYoutube": "Match preview, duration 1 minute and 51 seconds",
-          "type": 0
+          "type": 0,
+          "streamingData": [
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "480p",
+              "headers": "origin: https://nflseasonpass.com;\r\nreferer: https://nflseasonpass.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://mainbb.s3.amazonaws.com/ch6/ch6_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "720p",
+              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1 HD",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
+            }
+          ]
         },
         {
           "flag1": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",

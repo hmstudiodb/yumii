@@ -37930,7 +37930,7 @@
               "description": "Server 4 | 480p",
               "headers": "Origin: https://supertipz.com;\r\nReferer: https://supertipz.com/;",
               "logo": "HbiakTK",
-              "name": "TSN 1",
+              "name": "TSN 3",
               "nation": "Cannada",
               "nationCode": "Can",
               "openBrowser": false,
@@ -37947,6 +37947,18 @@
               "nationCode": "Can",
               "openBrowser": false,
               "stream": "https://wakstateask.azureedge.net/live/TSN1/playlist.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 1670696944339,
+              "description": "Server 6 | 720p",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1",
+              "nation": "Cannada",
+              "nationCode": "Can",
+              "openBrowser": false,
+              "stream": "https://lynellfadowlowsk.s3.amazonaws.com/gameon.m3u8"
             },
             {
               "background": "#FFFFFF",
@@ -37995,6 +38007,18 @@
               "nationCode": "Can",
               "openBrowser": false,
               "stream": "https://cdn-1.sportfacts.net/live/abr-stream-1/live/SN-S1_480p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiA2OjE2OjU1IFBNJmhhc2hfdmFsdWU9U3ZlWkpaYWEzUU1sQTZNVVpFRnlhZz09JnZhbGlkbWludXRlcz0yNDAmaWQ9MTg1LjIxMi4xMTguMTMzJnN0cm1fbGVuPTU="
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 1670696944338,
+              "description": "Server 3 | 720p",
+              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/;",
+              "logo": "xeZBWOy",
+              "name": "itv 1",
+              "nation": "Cannada",
+              "nationCode": "Can",
+              "openBrowser": false,
+              "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/kO2iAzFOttL39MYK_768x432.jpg",

@@ -37245,7 +37245,7 @@
           "flag2": "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_96x96.png",
           "hide": true,
           "id": "-NHAVeJpKu6Pqati2muG",
-          "isLive": false,
+          "isLive": true,
           "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/jaUk6LywLkWaDZYZfH0fOw?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
           "matchType": "Quarter-finals",
           "millisecondsUTC": 1670684400000,
@@ -37268,17 +37268,6 @@
             },
             {
               "background": "#FFFFFF",
-              "dateTime": 0,
-              "description": "720p",
-              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/;",
-              "logo": "xeZBWOy",
-              "name": "itv 1",
-              "nation": "Canada",
-              "openBrowser": false,
-              "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
               "dateTime": 1670682835300,
               "description": "Server 2 | 480p",
               "headers": "Origin: https://techclips.net;\r\nReferer: https://techclips.net/clip/s1.html;",
@@ -37289,18 +37278,7 @@
               "openBrowser": false,
               "stream": "https://reels2watch.com/hls/s1.m3u8"
             },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 1670682835300,
-              "description": "Server 2 | 480p",
-              "headers": "Origin: http://motornews.live;\r\nReferer: http://motornews.live/novo/bite/10-wclive/;",
-              "logo": "xeZBWOy",
-              "name": "itv 1",
-              "nation": "Cannada",
-              "nationCode": "Can",
-              "openBrowser": false,
-              "stream": "http://cdn4.cyclingnews.live/abr/abr-stream1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiAyOjE4CjoyMQogUE0maGFzaF92YWx1ZT16dms1R1hSQ2JjWWJ1dG9SZUJQSnpBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xOTIuMTY4LjEwMC4xNDAmc3RybV9sZW49NA=="
-            },
+
             {
               "background": "#FFFFFF",
               "dateTime": 1670682835301,
@@ -37336,6 +37314,28 @@
               "nationCode": "Can",
               "openBrowser": false,
               "stream": "https://llyinarenata238.s3-accelerate.amazonaws.com/cool_240p30.m3u8"
+            },{
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "720p",
+              "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/;",
+              "logo": "xeZBWOy",
+              "name": "itv 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 1670682835300,
+              "description": "Server 2 | 480p",
+              "headers": "Origin: http://motornews.live;\r\nReferer: http://motornews.live/novo/bite/10-wclive/;",
+              "logo": "xeZBWOy",
+              "name": "itv 1",
+              "nation": "Cannada",
+              "nationCode": "Can",
+              "openBrowser": false,
+              "stream": "http://cdn4.cyclingnews.live/abr/abr-stream1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiAyOjE4CjoyMQogUE0maGFzaF92YWx1ZT16dms1R1hSQ2JjWWJ1dG9SZUJQSnpBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xOTIuMTY4LjEwMC4xNDAmc3RybV9sZW49NA=="
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/jxyvaCqdK8dTN7uY_768x432.jpg",

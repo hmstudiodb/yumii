@@ -37915,31 +37915,7 @@
             {
               "background": "#FFFFFF",
               "dateTime": 1670696944338,
-              "description": "Server 3 | 480p",
-              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1",
-              "nation": "Cannada",
-              "nationCode": "Can",
-              "openBrowser": false,
-              "stream": "https://elanrodgerjdelmerw.s3.amazonaws.com/england.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 1670696944338,
-              "description": "Server 4 | 480p",
-              "headers": "Origin: https://www.ovostreams.com;\r\nReferer: https://www.ovostreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1",
-              "nation": "Cannada",
-              "nationCode": "Can",
-              "openBrowser": false,
-              "stream": "https://ovocloud.site/live/abr_s-1/playlist.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 1670696944338,
-              "description": "Server 5 | 720p",
+              "description": "Server 3 | 720p",
               "headers": "Origin: https://allsportsdaily.co;\r\nReferer: https://allsportsdaily.co/;",
               "logo": "HbiakTK",
               "name": "TSN 1",
@@ -37951,19 +37927,7 @@
             {
               "background": "#FFFFFF",
               "dateTime": 1670696944338,
-              "description": "Server 6 | 480p",
-              "headers": "Origin: https://dubznetwork.com;\r\nReferer: https://dubznetwork.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN 1",
-              "nation": "Cannada",
-              "nationCode": "Can",
-              "openBrowser": false,
-              "stream": "https://8j4mu6wuj1qfc3.data.mediastore.eu-central-1.amazonaws.com/livea/main.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 1670696944338,
-              "description": "Server 6 | 480p",
+              "description": "Server 4 | 480p",
               "headers": "Origin: https://supertipz.com;\r\nReferer: https://supertipz.com/;",
               "logo": "HbiakTK",
               "name": "TSN 1",
@@ -37975,7 +37939,7 @@
             {
               "background": "#FFFFFF",
               "dateTime": 1670696944339,
-              "description": "Server 7 | 720p",
+              "description": "Server 5 | 720p",
               "headers": "origin: https://weakstream.net;\r\nreferer: https://weakstream.net/;",
               "logo": "HbiakTK",
               "name": "TSN 1",
@@ -38025,12 +37989,24 @@
               "dateTime": 1670696944338,
               "description": "Server 2 | 480p",
               "headers": "Origin: https://www.sportfacts.net;\r\nReferer: https://www.sportfacts.net/;",
-              "logo": "HbiakTK",
+              "logo": "xeZBWOy",
               "name": "itv 1",
               "nation": "Cannada",
               "nationCode": "Can",
               "openBrowser": false,
               "stream": "https://cdn-1.sportfacts.net/live/abr-stream-1/live/SN-S1_480p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiA2OjE2OjU1IFBNJmhhc2hfdmFsdWU9U3ZlWkpaYWEzUU1sQTZNVVpFRnlhZz09JnZhbGlkbWludXRlcz0yNDAmaWQ9MTg1LjIxMi4xMTguMTMzJnN0cm1fbGVuPTU="
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 1670696944338,
+              "description": "Server 3 | 480p",
+              "headers": "Origin: https://dubznetwork.com;\r\nReferer: https://dubznetwork.com/;",
+              "logo": "xeZBWOy",
+              "name": "itv 1",
+              "nation": "Cannada",
+              "nationCode": "Can",
+              "openBrowser": false,
+              "stream": "https://8j4mu6wuj1qfc3.data.mediastore.eu-central-1.amazonaws.com/livea/main.m3u8"
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/kO2iAzFOttL39MYK_768x432.jpg",

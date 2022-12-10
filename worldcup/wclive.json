@@ -37915,42 +37915,6 @@
             {
               "background": "#FFFFFF",
               "dateTime": 1670696944338,
-              "description": "720p",
-              "headers": "origin: https://bongstreams.com;\r\nreferer: https://bongstreams.com/rntv.php;",
-              "logo": "xeZBWOy",
-              "name": "itv 1",
-              "nation": "Cannada",
-              "nationCode": "Can",
-              "openBrowser": false,
-              "stream": "https://luinr.bongstreams.com/live/adaptive_bong-1/live/bong-1_720p/chunks.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 1670696944338,
-              "description": "480p",
-              "headers": "origin: https://bongstreams.com;\r\nreferer: https://bongstreams.com/rntv.php;",
-              "logo": "xeZBWOy",
-              "name": "itv 1",
-              "nation": "Canada",
-              "nationCode": "Can",
-              "openBrowser": false,
-              "stream": "https://luinr.bongstreams.com/live/adaptive_bong-1/live/bong-1_360p/chunks.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 1670696944338,
-              "description": "240p",
-              "headers": "origin: https://bongstreams.com;\r\nreferer: https://bongstreams.com/rntv.php;",
-              "logo": "xeZBWOy",
-              "name": "itv 1",
-              "nation": "Cannada",
-              "nationCode": "Can",
-              "openBrowser": false,
-              "stream": "https://luinr.bongstreams.com/live/adaptive_bong-1/live/bong-1_240p/chunks.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 1670696944338,
               "description": "Server 3 | 480p",
               "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
               "logo": "HbiakTK",
@@ -37987,18 +37951,6 @@
             {
               "background": "#FFFFFF",
               "dateTime": 1670696944338,
-              "description": "Server 2 | 480p",
-              "headers": "Origin: https://www.sportfacts.net;\r\nReferer: https://www.sportfacts.net/;",
-              "logo": "HbiakTK",
-              "name": "itv 1",
-              "nation": "Cannada",
-              "nationCode": "Can",
-              "openBrowser": false,
-              "stream": "https://cdn-1.sportfacts.net/live/abr-stream-1/live/SN-S1_480p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiA2OjE2OjU1IFBNJmhhc2hfdmFsdWU9U3ZlWkpaYWEzUU1sQTZNVVpFRnlhZz09JnZhbGlkbWludXRlcz0yNDAmaWQ9MTg1LjIxMi4xMTguMTMzJnN0cm1fbGVuPTU="
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 1670696944338,
               "description": "Server 6 | 480p",
               "headers": "Origin: https://dubznetwork.com;\r\nReferer: https://dubznetwork.com/;",
               "logo": "HbiakTK",
@@ -38031,6 +37983,54 @@
               "nationCode": "Can",
               "openBrowser": false,
               "stream": "https://wakstateask.azureedge.net/live/TSN1/playlist.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 1670696944338,
+              "description": "720p",
+              "headers": "origin: https://bongstreams.com;\r\nreferer: https://bongstreams.com/rntv.php;",
+              "logo": "xeZBWOy",
+              "name": "itv 1",
+              "nation": "Cannada",
+              "nationCode": "Can",
+              "openBrowser": false,
+              "stream": "https://luinr.bongstreams.com/live/adaptive_bong-1/live/bong-1_720p/chunks.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 1670696944338,
+              "description": "480p",
+              "headers": "origin: https://bongstreams.com;\r\nreferer: https://bongstreams.com/rntv.php;",
+              "logo": "xeZBWOy",
+              "name": "itv 1",
+              "nation": "Canada",
+              "nationCode": "Can",
+              "openBrowser": false,
+              "stream": "https://luinr.bongstreams.com/live/adaptive_bong-1/live/bong-1_360p/chunks.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 1670696944338,
+              "description": "240p",
+              "headers": "origin: https://bongstreams.com;\r\nreferer: https://bongstreams.com/rntv.php;",
+              "logo": "xeZBWOy",
+              "name": "itv 1",
+              "nation": "Cannada",
+              "nationCode": "Can",
+              "openBrowser": false,
+              "stream": "https://luinr.bongstreams.com/live/adaptive_bong-1/live/bong-1_240p/chunks.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 1670696944338,
+              "description": "Server 2 | 480p",
+              "headers": "Origin: https://www.sportfacts.net;\r\nReferer: https://www.sportfacts.net/;",
+              "logo": "HbiakTK",
+              "name": "itv 1",
+              "nation": "Cannada",
+              "nationCode": "Can",
+              "openBrowser": false,
+              "stream": "https://cdn-1.sportfacts.net/live/abr-stream-1/live/SN-S1_480p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiA2OjE2OjU1IFBNJmhhc2hfdmFsdWU9U3ZlWkpaYWEzUU1sQTZNVVpFRnlhZz09JnZhbGlkbWludXRlcz0yNDAmaWQ9MTg1LjIxMi4xMTguMTMzJnN0cm1fbGVuPTU="
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/kO2iAzFOttL39MYK_768x432.jpg",

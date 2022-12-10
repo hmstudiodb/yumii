@@ -37291,19 +37291,43 @@
               "openBrowser": false,
               "stream": "http://sea1.live.dreamcast.cc/hls/XUWUQovq2K.m3u8"
             },
-            
+            {
+              "background": "#FFFFFF",
+              "dateTime": 1670682835301,
+              "description": "720p",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "logo": "uvl1pZB",
+              "name": "StarHub 1",
+              "nation": "Cannada",
+              "nationCode": "Can",
+              "openBrowser": false,
+              "stream": "https://llyinarenata238.s3-accelerate.amazonaws.com/cool_720p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 1670682835301,
+              "description": "480p",
+              "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
+              "logo": "uvl1pZB",
+              "name": "StarHub 1",
+              "nation": "Cannada",
+              "nationCode": "Can",
+              "openBrowser": false,
+              "stream": "https://llyinarenata238.s3-accelerate.amazonaws.com/cool_480p30.m3u8"
+            },
             {
               "background": "#FFFFFF",
               "dateTime": 1670682835301,
               "description": "240p",
               "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
-              "logo": "o2l3TOs",
-              "name": "StarHub",
+              "logo": "uvl1pZB",
+              "name": "StarHub 1",
               "nation": "Cannada",
               "nationCode": "Can",
               "openBrowser": false,
               "stream": "https://llyinarenata238.s3-accelerate.amazonaws.com/cool_240p30.m3u8"
-            },{
+            },
+            {
               "background": "#FFFFFF",
               "dateTime": 0,
               "description": "720p",

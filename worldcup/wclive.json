@@ -37282,34 +37282,23 @@
             {
               "background": "#FFFFFF",
               "dateTime": 1670682835301,
-              "description": "HD 2",
+              "description": "Server 3 | 480p",
               "headers": "Origin: http://ace0920.usite.pro;\r\nReferer: http://ace0920.usite.pro/;",
               "logo": "HbiakTK",
-              "name": "TSN",
+              "name": "TSN 1",
               "nation": "Cannada",
               "nationCode": "Can",
               "openBrowser": false,
               "stream": "http://sea1.live.dreamcast.cc/hls/XUWUQovq2K.m3u8"
             },
+            
             {
               "background": "#FFFFFF",
               "dateTime": 1670682835301,
-              "description": "ITV HD",
-              "headers": "Origin: https://groundedtechs.com;\r\nReferer: https://groundedtechs.com/gtechs1-d-9/;",
-              "logo": "HbiakTK",
-              "name": "TSN",
-              "nation": "Cannada",
-              "nationCode": "Can",
-              "openBrowser": false,
-              "stream": "https://live1.techstribes.com/techstribes/live/15.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 1670682835301,
-              "description": "Data Saver",
+              "description": "Server 4 | 240p",
               "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
               "logo": "HbiakTK",
-              "name": "TSN",
+              "name": "TSN 1",
               "nation": "Cannada",
               "nationCode": "Can",
               "openBrowser": false,
@@ -37336,6 +37325,18 @@
               "nationCode": "Can",
               "openBrowser": false,
               "stream": "http://cdn4.cyclingnews.live/abr/abr-stream1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiAyOjE4CjoyMQogUE0maGFzaF92YWx1ZT16dms1R1hSQ2JjWWJ1dG9SZUJQSnpBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xOTIuMTY4LjEwMC4xNDAmc3RybV9sZW49NA=="
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 1670682835301,
+              "description": "Server 3 | 720p",
+              "headers": "Origin: https://groundedtechs.com;\r\nReferer: https://groundedtechs.com/gtechs1-d-9/;",
+              "logo": "HbiakTK",
+              "name": "itv 1",
+              "nation": "Cannada",
+              "nationCode": "Can",
+              "openBrowser": false,
+              "stream": "https://live1.techstribes.com/techstribes/live/15.m3u8"
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/jxyvaCqdK8dTN7uY_768x432.jpg",

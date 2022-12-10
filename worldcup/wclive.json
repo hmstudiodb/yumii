@@ -6,7 +6,7 @@
         "is"
       ],
       "am_in": "ca-app-pub-4783400630504930/6731315953",
-      "bracket_url": "https://raw.githubusercontent.com/sportslivescore/euro2020/master/lineup/worldcup2022/20.png",
+      "bracket_url": "https://raw.githubusercontent.com/sportslivescore/euro2020/master/lineup/worldcup2022/21.png",
       "interval": 60000,
       "is_id": "179b194ad",
       "livescore": [
@@ -37995,18 +37995,6 @@
               "nationCode": "Can",
               "openBrowser": false,
               "stream": "https://cdn-1.sportfacts.net/live/abr-stream-1/live/SN-S1_480p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiA2OjE2OjU1IFBNJmhhc2hfdmFsdWU9U3ZlWkpaYWEzUU1sQTZNVVpFRnlhZz09JnZhbGlkbWludXRlcz0yNDAmaWQ9MTg1LjIxMi4xMTguMTMzJnN0cm1fbGVuPTU="
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 1670696944338,
-              "description": "Server 3 | 480p",
-              "headers": "Origin: https://dubznetwork.com;\r\nReferer: https://dubznetwork.com/;",
-              "logo": "xeZBWOy",
-              "name": "itv 1",
-              "nation": "Cannada",
-              "nationCode": "Can",
-              "openBrowser": false,
-              "stream": "https://8j4mu6wuj1qfc3.data.mediastore.eu-central-1.amazonaws.com/livea/main.m3u8"
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/kO2iAzFOttL39MYK_768x432.jpg",

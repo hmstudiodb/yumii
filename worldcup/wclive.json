@@ -37873,7 +37873,7 @@
               "description": "720p",
               "headers": "origin:https://nflseasonpass.com;\r\nreferer:https://nflseasonpass.com/;",
               "logo": "HbiakTK",
-              "name": "TSN1",
+              "name": "TSN 1",
               "nation": "Canada",
               "openBrowser": false,
               "stream": "https://mainbb.s3.amazonaws.com/ch6/ch6_720p30.m3u8"
@@ -37884,7 +37884,7 @@
               "description": "480p",
               "headers": "origin:https://nflseasonpass.com;\r\nreferer:https://nflseasonpass.com/;",
               "logo": "HbiakTK",
-              "name": "TSN1",
+              "name": "TSN 1",
               "nation": "Canada",
               "openBrowser": false,
               "stream": "https://mainbb.s3.amazonaws.com/ch6/ch6_480p30.m3u8"
@@ -37895,7 +37895,7 @@
               "description": "240p",
               "headers": "origin:https://nflseasonpass.com;\r\nreferer:https://nflseasonpass.com/;",
               "logo": "HbiakTK",
-              "name": "TSN1",
+              "name": "TSN 1",
               "nation": "Canada",
               "openBrowser": false,
               "stream": "https://mainbb.s3.amazonaws.com/ch6/ch6_240p30.m3u8"
@@ -37906,7 +37906,7 @@
               "description": "Server 2 | 720p",
               "headers": "Origin:http://ace0920.usite.pro;\r\nReferer:http://ace0920.usite.pro/;",
               "logo": "HbiakTK",
-              "name": "TSN1",
+              "name": "TSN 1",
               "nation": "Cannada",
               "nationCode": "Can",
               "openBrowser": false,

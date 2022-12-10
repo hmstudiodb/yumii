@@ -37264,7 +37264,29 @@
               "name": "TSN 1",
               "nation": "Canada",
               "openBrowser": false,
+              "stream": "https://mainbb.s3.amazonaws.com/ch6/ch6_720p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "480p",
+              "headers": "origin: https://nflseasonpass.com;\r\nreferer: https://nflseasonpass.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1",
+              "nation": "Canada",
+              "openBrowser": false,
               "stream": "https://mainbb.s3.amazonaws.com/ch6/ch6_480p30.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 0,
+              "description": "240p",
+              "headers": "origin: https://nflseasonpass.com;\r\nreferer: https://nflseasonpass.com/;",
+              "logo": "HbiakTK",
+              "name": "TSN 1",
+              "nation": "Canada",
+              "openBrowser": false,
+              "stream": "https://mainbb.s3.amazonaws.com/ch6/ch6_240p30.m3u8"
             },
             {
               "background": "#FFFFFF",

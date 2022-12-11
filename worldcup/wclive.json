@@ -6,7 +6,7 @@
  "is"
  ],
  "am_in": "ca-app-pub-4783400630504930/6731315953",
- "bracket_url": "https://raw.githubusercontent.com/sportslivescore/euro2020/master/lineup/worldcup2022/21.png",
+ "bracket_url": "https://raw.githubusercontent.com/sportslivescore/euro2020/master/lineup/worldcup2022/22.png",
  "interval": 60000,
  "is_id": "179b194ad",
  "livescore": [
@@ -36755,7 +36755,7 @@
  {
  "stats": "Passes",
  "suffix": "",
- "team1": 248.0,
+ "team1": 247.0,
  "team2": 663.0
  },
  {
@@ -37343,6 +37343,68 @@
  "type": 0
  },
  {
+ "MATCH_STATS": [
+ {
+ "stats": "Shots",
+ "suffix": "",
+ "team1": 16.0,
+ "team2": 8.0
+ },
+ {
+ "stats": "Shots on target",
+ "suffix": "",
+ "team1": 8.0,
+ "team2": 5.0
+ },
+ {
+ "stats": "Possession",
+ "suffix": "%",
+ "team1": 58.0,
+ "team2": 42.0
+ },
+ {
+ "stats": "Passes",
+ "suffix": "",
+ "team1": 504.0,
+ "team2": 377.0
+ },
+ {
+ "stats": "Pass accuracy",
+ "suffix": "%",
+ "team1": 87.0,
+ "team2": 81.0
+ },
+ {
+ "stats": "Fouls",
+ "suffix": "",
+ "team1": 10.0,
+ "team2": 14.0
+ },
+ {
+ "stats": "Yellow cards",
+ "suffix": "",
+ "team1": 1.0,
+ "team2": 3.0
+ },
+ {
+ "stats": "Red cards",
+ "suffix": "",
+ "team1": 0.0,
+ "team2": 0.0
+ },
+ {
+ "stats": "Offsides",
+ "suffix": "",
+ "team1": 1.0,
+ "team2": 2.0
+ },
+ {
+ "stats": "Corners",
+ "suffix": "",
+ "team1": 5.0,
+ "team2": 2.0
+ }
+ ],
  "SOCCER_LINEUPS": {
  "Manager": [
  {
@@ -37368,7 +37430,7 @@
  "redCard2": false,
  "shirt1": "7",
  "shirt2": "2",
- "substitutedIn1": false,
+ "substitutedIn1": true,
  "substitutedIn2": false,
  "yellowCard1": false,
  "yellowCard2": false
@@ -37382,7 +37444,7 @@
  "redCard2": false,
  "shirt1": "10",
  "shirt2": "3",
- "substitutedIn1": false,
+ "substitutedIn1": true,
  "substitutedIn2": false,
  "yellowCard1": false,
  "yellowCard2": false
@@ -37396,7 +37458,7 @@
  "redCard2": false,
  "shirt1": "11",
  "shirt2": "6",
- "substitutedIn1": false,
+ "substitutedIn1": true,
  "substitutedIn2": false,
  "yellowCard1": false,
  "yellowCard2": false
@@ -37481,7 +37543,7 @@
  "shirt1": "18",
  "shirt2": "20",
  "substitutedIn1": false,
- "substitutedIn2": false,
+ "substitutedIn2": true,
  "yellowCard1": false,
  "yellowCard2": false
  },
@@ -37494,7 +37556,7 @@
  "redCard2": false,
  "shirt1": "19",
  "shirt2": "23",
- "substitutedIn1": false,
+ "substitutedIn1": true,
  "substitutedIn2": false,
  "yellowCard1": false,
  "yellowCard2": false
@@ -37598,7 +37660,7 @@
  "redCard": false,
  "substitutedOut": false,
  "width": 25.0,
- "yellowCard": false
+ "yellowCard": true
  },
  {
  "color": "#B8142D",
@@ -37671,7 +37733,7 @@
  },
  {
  "color": "#B8142D",
- "goals": 0,
+ "goals": 1,
  "ownGoal": false,
  "playerFullName": "Harry Kane",
  "playerName": "H. Kane",
@@ -37701,7 +37763,7 @@
  [
  {
  "color": "#4293ED",
- "goals": 0,
+ "goals": 1,
  "ownGoal": false,
  "playerFullName": "Olivier Giroud",
  "playerName": "O. Giroud",
@@ -37738,7 +37800,7 @@
  "redCard": false,
  "substitutedOut": false,
  "width": 33.333332,
- "yellowCard": false
+ "yellowCard": true
  },
  {
  "color": "#4293ED",
@@ -37751,7 +37813,7 @@
  "redCard": false,
  "substitutedOut": false,
  "width": 33.333332,
- "yellowCard": false
+ "yellowCard": true
  }
  ],
  [
@@ -37770,7 +37832,7 @@
  },
  {
  "color": "#4293ED",
- "goals": 0,
+ "goals": 1,
  "ownGoal": false,
  "playerFullName": "Aurélien Tchouaméni",
  "playerName": "A. Tchouaméni",
@@ -37794,7 +37856,7 @@
  "redCard": false,
  "substitutedOut": false,
  "width": 25.0,
- "yellowCard": false
+ "yellowCard": true
  },
  {
  "color": "#4293ED",
@@ -37858,171 +37920,48 @@
  "hide": true,
  "id": "-NHAVeJpKu6Pqati2muH",
  "isLive": false,
- "linkYoutube": "https://www.fifa.com/fifaplus/en/watch/703eVxhsKyUilORWahMw3P?cid=(p_go-box)(c_FIFAPlus)(sc_pregame)(ssc_)(da_)(co_)(cc_)&s_cid=(co_)(cc_)&c=(c_FIFAPlus)(sc_pregame)(ssc_)(cc_)&pid=(p_go-box)(ch_)(t_)",
+ "linkYoutube": "https://www.fifa.com/fifaplus/watch/1MTwBFBfR3uumSyj3kZnNs",
+ "listScore1": [
+ {
+ "minute": "54'",
+ "playerName": "Harry Kane"
+ }
+ ],
+ "listScore2": [
+ {
+ "minute": "17'",
+ "playerName": "Aurélien Tchouaméni"
+ },
+ {
+ "minute": "78'",
+ "playerName": "Olivier Giroud"
+ }
+ ],
  "matchType": "Quarter-finals",
  "millisecondsUTC": 1670698800000,
  "nameCup": "FIFA World Cup 2022™",
  "nameTeam1": "England",
  "nameTeam2": "France",
+ "score1": "1",
+ "score2": "2",
  "stadium": "Al Bayt ",
- "startTime": "today, 2:00 PM",
+ "startTime": "Today",
+ "status": "Full-time",
  "streamingData": [
  {
  "background": "#FFFFFF",
  "dateTime": 0,
- "description": "720p",
- "headers": "origin:https://nflseasonpass.com;\r\nreferer:https://nflseasonpass.com/;",
+ "description": "Highlights",
+ "headers": "origin: https://hoafooota.elhighlights.com;\r\nreferer: https://hoafooota.elhighlights.com/;",
  "logo": "HbiakTK",
- "name": "TSN 1",
+ "name": "TSN",
  "nation": "Canada",
  "openBrowser": false,
- "stream": "https://mainbb.s3.amazonaws.com/ch6/ch6_720p30.m3u8"
- },
- {
- "background": "#FFFFFF",
- "dateTime": 0,
- "description": "480p",
- "headers": "origin:https://nflseasonpass.com;\r\nreferer:https://nflseasonpass.com/;",
- "logo": "HbiakTK",
- "name": "TSN 1",
- "nation": "Canada",
- "openBrowser": false,
- "stream": "https://mainbb.s3.amazonaws.com/ch6/ch6_480p30.m3u8"
- },
- {
- "background": "#FFFFFF",
- "dateTime": 0,
- "description": "240p",
- "headers": "origin:https://nflseasonpass.com;\r\nreferer:https://nflseasonpass.com/;",
- "logo": "HbiakTK",
- "name": "TSN 1",
- "nation": "Canada",
- "openBrowser": false,
- "stream": "https://mainbb.s3.amazonaws.com/ch6/ch6_240p30.m3u8"
- },
- {
- "background": "#FFFFFF",
- "dateTime": 1670682835301,
- "description": "Server 2 | 720p",
- "headers": "Origin:http://ace0920.usite.pro;\r\nReferer:http://ace0920.usite.pro/;",
- "logo": "HbiakTK",
- "name": "TSN 1",
- "nation": "Cannada",
- "nationCode": "Can",
- "openBrowser": false,
- "stream": "http://sea1.live.dreamcast.cc/hls/XUWUQovq2K.m3u8"
- },
- {
- "background": "#FFFFFF",
- "dateTime": 1670696944338,
- "description": "Server 3 | 720p",
- "headers": "Origin: https://allsportsdaily.co;\r\nReferer: https://allsportsdaily.co/;",
- "logo": "HbiakTK",
- "name": "TSN 1",
- "nation": "Cannada",
- "nationCode": "Can",
- "openBrowser": false,
- "stream": "https://stream10.allsportsdaily.xyz/hls/t1.m3u8"
- },
- {
- "background": "#FFFFFF",
- "dateTime": 1670696944338,
- "description": "Server 4 | 480p",
- "headers": "Origin: https://supertipz.com;\r\nReferer: https://supertipz.com/;",
- "logo": "HbiakTK",
- "name": "TSN 3",
- "nation": "Cannada",
- "nationCode": "Can",
- "openBrowser": false,
- "stream": "https://stream2.supertipz.com/hls/tsn3.m3u8"
- },
- {
- "background": "#FFFFFF",
- "dateTime": 1670696944339,
- "description": "Server 5 | 720p",
- "headers": "origin: https://weakstream.net;\r\nreferer: https://weakstream.net/;",
- "logo": "HbiakTK",
- "name": "TSN 1",
- "nation": "Cannada",
- "nationCode": "Can",
- "openBrowser": false,
- "stream": "https://wakstateask.azureedge.net/live/TSN1/playlist.m3u8"
- },
- {
- "background": "#FFFFFF",
- "dateTime": 1670696944339,
- "description": "Server 6 | 720p",
- "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
- "logo": "HbiakTK",
- "name": "TSN 1",
- "nation": "Cannada",
- "nationCode": "Can",
- "openBrowser": false,
- "stream": "https://lynellfadowlowsk.s3.amazonaws.com/gameon.m3u8"
- },
- {
- "background": "#FFFFFF",
- "dateTime": 1670696944338,
- "description": "720p",
- "headers": "origin: https://bongstreams.com;\r\nreferer: https://bongstreams.com/rntv.php;",
- "logo": "xeZBWOy",
- "name": "itv 1",
- "nation": "Cannada",
- "nationCode": "Can",
- "openBrowser": false,
- "stream": "https://luinr.bongstreams.com/live/adaptive_bong-1/live/bong-1_720p/chunks.m3u8"
- },
- {
- "background": "#FFFFFF",
- "dateTime": 1670696944338,
- "description": "480p",
- "headers": "origin: https://bongstreams.com;\r\nreferer: https://bongstreams.com/rntv.php;",
- "logo": "xeZBWOy",
- "name": "itv 1",
- "nation": "Canada",
- "nationCode": "Can",
- "openBrowser": false,
- "stream": "https://luinr.bongstreams.com/live/adaptive_bong-1/live/bong-1_360p/chunks.m3u8"
- },
- {
- "background": "#FFFFFF",
- "dateTime": 1670696944338,
- "description": "240p",
- "headers": "origin: https://bongstreams.com;\r\nreferer: https://bongstreams.com/rntv.php;",
- "logo": "xeZBWOy",
- "name": "itv 1",
- "nation": "Cannada",
- "nationCode": "Can",
- "openBrowser": false,
- "stream": "https://luinr.bongstreams.com/live/adaptive_bong-1/live/bong-1_240p/chunks.m3u8"
- },
- {
- "background": "#FFFFFF",
- "dateTime": 1670696944338,
- "description": "Server 2 | 480p",
- "headers": "Origin: https://www.sportfacts.net;\r\nReferer: https://www.sportfacts.net/;",
- "logo": "xeZBWOy",
- "name": "itv 1",
- "nation": "Cannada",
- "nationCode": "Can",
- "openBrowser": false,
- "stream": "https://cdn-1.sportfacts.net/live/abr-stream-1/live/SN-S1_480p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMiA2OjE2OjU1IFBNJmhhc2hfdmFsdWU9U3ZlWkpaYWEzUU1sQTZNVVpFRnlhZz09JnZhbGlkbWludXRlcz0yNDAmaWQ9MTg1LjIxMi4xMTguMTMzJnN0cm1fbGVuPTU="
- },
- {
- "background": "#FFFFFF",
- "dateTime": 1670696944338,
- "description": "Server 3 | 720p",
- "headers": "Origin: http://hockeyweb.live;\r\nReferer: http://hockeyweb.live/;",
- "logo": "xeZBWOy",
- "name": "itv 1",
- "nation": "Cannada",
- "nationCode": "Can",
- "openBrowser": false,
- "stream": "http://slive.webhockey.xyz/hls/S1.m3u8"
+ "stream": "https://cnda11.ahdafsoccer.com/UpFiles/2022/12/10/42/242733/360p.m3u8"
  }
  ],
- "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/kO2iAzFOttL39MYK_768x432.jpg",
- "timeYoutube": "2:38",
+ "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/JWO8CV-fgWqZIvF6_192x108.jpg",
+ "timeYoutube": "2:00",
  "type": 0
  },
  {

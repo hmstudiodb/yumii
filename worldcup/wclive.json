@@ -13993,6 +13993,18 @@
           "streamingData": [
             {
               "background": "#FFFFFF",
+              "dateTime": 1671375228704,
+              "description": "720p",
+              "headers": "Origin: https://www.ovostreams.com;\r\nReferer: https://www.ovostreams.com/;",
+              "logo": "RN36E3e",
+              "name": "FOX Sports",
+              "nation": "Cannada",
+              "nationCode": "Can",
+              "openBrowser": false,
+              "stream": "https://ovocloud.site/live/abr_s-1/live/s-1_480p/playlist.m3u8"
+            },
+            {
+              "background": "#FFFFFF",
               "dateTime": 1671367145261,
               "description": "480p",
               "headers": "origin: https://nflseasonpass.com;\r\nreferer: https://nflseasonpass.com/;",
@@ -14002,18 +14014,6 @@
               "nationCode": "Can",
               "openBrowser": false,
               "stream": "https://mainbb.s3.amazonaws.com/ch6/ch6_480p30.m3u8"
-            },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 1671372905034,
-              "description": "720p",
-              "headers": "Origin: http://tennews.live;\r\nReferer: http://tennews.live/daily/total/argen18/;",
-              "logo": "E9IuO1X",
-              "name": "BBC Sports",
-              "nation": "Cannada",
-              "nationCode": "Can",
-              "openBrowser": false,
-              "stream": "http://snews.t4news.live/hls/S1.m3u8"
             },
             {
               "background": "#FFFFFF",
@@ -14051,18 +14051,7 @@
               "openBrowser": false,
               "stream": "https://reels2watch.com/hls/s1.m3u8"
             },
-            {
-              "background": "#FFFFFF",
-              "dateTime": 1671375228704,
-              "description": "720p",
-              "headers": "Origin: https://www.ovostreams.com;\r\nReferer: https://www.ovostreams.com/;",
-              "logo": "RN36E3e",
-              "name": "FOX Sports",
-              "nation": "Cannada",
-              "nationCode": "Can",
-              "openBrowser": false,
-              "stream": "https://ovocloud.site/live/abr_s-1/live/s-1_480p/playlist.m3u8"
-            },
+            
             {
               "background": "#FFFFFF",
               "dateTime": 1671375228704,
@@ -14098,6 +14087,18 @@
               "nationCode": "Can",
               "openBrowser": false,
               "stream": "http://cdn4.cyclingnews.live/abr/abr-stream1/hls/stream1_480p/chunks.m3u8?nimblesessionid=14383495&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyMiAyOjMwCjoxOAogUE0maGFzaF92YWx1ZT1kZjg1S2Nxc3ZlSE1mRitwZ0UwdkdBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xOTIuMTY4LjEwMC4xNDAmc3RybV9sZW49NA=="
+            },
+            {
+              "background": "#FFFFFF",
+              "dateTime": 1671372905034,
+              "description": "720p",
+              "headers": "Origin: http://tennews.live;\r\nReferer: http://tennews.live/daily/total/argen18/;",
+              "logo": "E9IuO1X",
+              "name": "BBC Sports",
+              "nation": "Cannada",
+              "nationCode": "Can",
+              "openBrowser": false,
+              "stream": "http://snews.t4news.live/hls/S1.m3u8"
             }
           ],
           "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/gf_-6G1KrzdS_eOL_768x432.jpg",

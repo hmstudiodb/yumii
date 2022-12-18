@@ -13995,7 +13995,7 @@
             {
               "background": "#FFFFFF",
               "dateTime": 1671367145261,
-              "description": "720p",
+              "description": "480p",
               "headers": "origin: https://nflseasonpass.com;\r\nreferer: https://nflseasonpass.com/;",
               "logo": "HbiakTK",
               "name": "TSN 1",
@@ -14007,7 +14007,7 @@
             {
               "background": "#FFFFFF",
               "dateTime": 1671372905034,
-              "description": "Server 1 | 720p",
+              "description": "720p",
               "headers": "Origin: http://tennews.live;\r\nReferer: http://tennews.live/daily/total/argen18/;",
               "logo": "E9IuO1X",
               "name": "BBC Sports",
@@ -14055,10 +14055,10 @@
             {
               "background": "#FFFFFF",
               "dateTime": 1671375228704,
-              "description": "Server 5 | 720p",
+              "description": "720p",
               "headers": "Origin: https://www.ovostreams.com;\r\nReferer: https://www.ovostreams.com/;",
-              "logo": "HbiakTK",
-              "name": "TSN",
+              "logo": "RN36E3e",
+              "name": "FOX Sports",
               "nation": "Cannada",
               "nationCode": "Can",
               "openBrowser": false,
@@ -14067,7 +14067,7 @@
             {
               "background": "#FFFFFF",
               "dateTime": 1671375228704,
-              "description": "Server 6 | 720p",
+              "description": "Server 5 | 720p",
               "headers": "origin: https://weakstream.org;\r\nreferer: https://weakstream.org/;",
               "logo": "HbiakTK",
               "name": "TSN 1",
@@ -14079,7 +14079,7 @@
             {
               "background": "#FFFFFF",
               "dateTime": 1671375228704,
-              "description": "Server 7 | 480p",
+              "description": "Server 6 | 480p",
               "headers": "Origin: https://givemenbastreams.com;\r\nReferer: https://givemenbastreams.com/;",
               "logo": "HbiakTK",
               "name": "TSN",
@@ -14091,7 +14091,7 @@
             {
               "background": "#FFFFFF",
               "dateTime": 1671375228704,
-              "description": "Server 8 | 720p",
+              "description": "Server 7 | 720p",
               "headers": "Origin: http://motornews.live;\r\nReferer: http://motornews.live/novo/bite/Argentina-s1/;",
               "logo": "HbiakTK",
               "name": "TSN",

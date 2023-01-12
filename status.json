@@ -1,13 +1,15 @@
 [{
-	"com.dynamic.island.ios16.zzz": {
-      "is_id": "",
+	"com.dynamic.island.ios16": {
+      "is_id": "1830eca85",
 
-      "am_ba": "ca-app-pub-3940256099942544/6300978111",
-      "am_in": "ca-app-pub-3940256099942544/1033173712",
+      "am_ba": "",
+      "am_in": "ca-app-pub-5026697429632379/9042854722",
       "am_vi": "",
-      "am_na": "ca-app-pub-3940256099942544/2247696110",
+      "am_na": "",
 
-      "ads_list": ["am"]
+      "interval": 60000,
+
+      "ads_list": ["am", "is"]
     },
     "tiktok.speedup.downloader.review": {
       "status":2,

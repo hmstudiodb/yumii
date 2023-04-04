@@ -1,15 +1,15 @@
 [{
 	"com.dynamic.island.ios16": {
-      "is_id": "1830eca85",
+      "is_id": "",
 
       "am_ba": "",
-      "am_in": "ca-app-pub-5026697429632379/9042854722",
+      "am_in": "",
       "am_vi": "",
       "am_na": "",
 
       "interval": 60000,
 
-      "ads_list": ["am", "is"]
+      "ads_list": [ "is"]
     },
     "tiktok.speedup.downloader.review": {
       "status":2,
